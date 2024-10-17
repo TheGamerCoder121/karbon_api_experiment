@@ -1,0 +1,999 @@
+Client,Worker,Task,Actual Hours,Budgeted Hours
+Unknown Client,Jacob Lazzell,Month End: Income Statement Revenue/COGS,0.8333333333333334,0
+Unknown Client,Jacob Lazzell,Month End:  Assets,1.0,0
+Unknown Client,Jacob Lazzell,Month End: Income Statement Revenue/COGS,2.4166666666666665,0
+Unknown Client,Jacob Lazzell,Month End: Liabilities,3.0,0
+Unknown Client,Jacob Lazzell,Month End: Income Statement Operating Expenses,2.8333333333333335,0
+Unknown Client,Jacob Lazzell,Month End:  Review (Internal) and Reporting,1.8333333333333333,0
+Unknown Client,Jacob Lazzell,Month End: Income Statement Revenue/COGS,1.9166666666666667,0
+Unknown Client,Jacob Lazzell,Internal Admin,0.3333333333333333,0
+Unknown Client,Jacob Lazzell,Month End: Liabilities,13.666666666666666,0
+Unknown Client,Jacob Lazzell,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Jacob Lazzell,Bookkeeping,0.3333333333333333,0
+Unknown Client,Jacob Lazzell,A/R Invoicing / Cash Application,4.583333333333333,0
+Unknown Client,Jacob Lazzell,Client Team Meetings,0.5,0
+Unknown Client,Jacob Lazzell,Ad Hoc,1.0,0
+Unknown Client,Jacob Lazzell,Inventory Implementation,2.8333333333333335,0
+Unknown Client,Jacob Lazzell,Month End: Liabilities,2.0,0
+Unknown Client,Jacob Lazzell,Bookkeeping,0.25,0
+Unknown Client,Daniel Johnson,Bill Pay,0.5,0
+Unknown Client,Daniel Johnson,Ad Hoc,0.25,0
+Unknown Client,Daniel Johnson,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Daniel Johnson,Month End:  Assets,2.75,0
+Unknown Client,Daniel Johnson,Month End: Income Statement Revenue/COGS,3.25,0
+Unknown Client,Daniel Johnson,Month End: Liabilities,2.5,0
+Unknown Client,Daniel Johnson,Month End: Income Statement Operating Expenses,4.5,0
+Unknown Client,Daniel Johnson,Month End:  Review (Internal) and Reporting,1.25,0
+Unknown Client,Daniel Johnson,Bill Pay,0.75,0
+Unknown Client,Daniel Johnson,Month End:  Assets,4.0,0
+Unknown Client,Daniel Johnson,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Daniel Johnson,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Daniel Johnson,Client Team Meetings,1.0,0
+Unknown Client,Daniel Johnson,Month End:  Assets,1.5,0
+Unknown Client,Daniel Johnson,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Daniel Johnson,Ad Hoc,5.5,0
+Unknown Client,Daniel Johnson,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Daniel Johnson,Ad Hoc,5.75,0
+Unknown Client,Daniel Johnson,Bill Pay,0.5,0
+Unknown Client,Daniel Johnson,Client Team Meetings,0.5,0
+Unknown Client,Zac Simons,A/R Invoicing / Cash Application,4.5,0
+Unknown Client,Zac Simons,Month End:  Assets,3.5,0
+Unknown Client,Zac Simons,Month End: Liabilities,6.5,0
+Unknown Client,Zac Simons,A/R Invoicing / Cash Application,1.0,0
+Unknown Client,Zac Simons,Month End:  Assets,3.0,0
+Unknown Client,Zac Simons,Month End: Liabilities,6.0,0
+Unknown Client,Zac Simons,Month End:  Review (Internal) and Reporting,0.5,0
+Unknown Client,Zac Simons,Internal Admin,1.0,0
+Unknown Client,Zac Simons,Client Team Meetings,0.5,0
+Unknown Client,Zac Simons,Bookkeeping,1.5,0
+Unknown Client,Zac Simons,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Zac Simons,Month End:  Assets,2.5,0
+Unknown Client,Zac Simons,Month End: Liabilities,1.5,0
+Unknown Client,Zac Simons,Bookkeeping,2.5,0
+Unknown Client,Zac Simons,Bookkeeping,1.5,0
+Unknown Client,Tanner Meeks,Month End:  Assets,2.5,0
+Unknown Client,Tanner Meeks,Internal Admin,0.5,0
+Unknown Client,Tanner Meeks,Month End:  Review (Internal) and Reporting,2.8333333333333335,0
+Unknown Client,Tanner Meeks,Month End:  Assets,3.6666666666666665,0
+Unknown Client,Tanner Meeks,Ad Hoc,1.5,0
+Unknown Client,Tanner Meeks,Ad Hoc,0.8,0
+Unknown Client,Tanner Meeks,Ad Hoc,0.25,0
+Unknown Client,Tanner Meeks,Ad Hoc,1.75,0
+Unknown Client,Tanner Meeks,Ad Hoc,6.033333333333333,0
+Unknown Client,Tanner Meeks,Month End: Income Statement Operating Expenses,1.1666666666666667,0
+Unknown Client,Tanner Meeks,Ad Hoc,9.3,0
+Unknown Client,Tanner Meeks,Month End: Income Statement Operating Expenses,3.6666666666666665,0
+Unknown Client,Tanner Meeks,Ad Hoc,2.566666666666667,0
+Unknown Client,Brian Prehn,Ad Hoc,1.0,0
+Unknown Client,Brian Prehn,Month End:  Review (Internal) and Reporting,6.0,0
+Unknown Client,Brian Prehn,Month End: Review with Client,1.0,0
+Unknown Client,Brian Prehn,Month End: Income Statement Operating Expenses,3.5,0
+Unknown Client,Brian Prehn,CFO: Reporting & Review,4.0,0
+Unknown Client,Brian Prehn,CFO: Other Advisory,2.5,0
+Unknown Client,Brian Prehn,Month End:  Review (Internal) and Reporting,1.25,0
+Unknown Client,Brian Prehn,CFO: Financial Modeling,4.0,0
+Unknown Client,Brian Prehn,CFO: Other Advisory,0.75,0
+Unknown Client,Brian Prehn,Client Team Meetings,2.0,0
+Unknown Client,Brian Prehn,Ad Hoc,1.0,0
+Unknown Client,Brian Prehn,CFO: Other Advisory,1.75,0
+Unknown Client,Brian Prehn,CFO: Other Advisory,2.0,0
+Unknown Client,Adam Casto,CFO: Other Advisory,0.5,0
+Unknown Client,Adam Casto,Client Team Meetings,2.0,0
+Unknown Client,Adam Casto,CFO: Financial Modeling,5.0,0
+Unknown Client,Adam Casto,CFO: Reporting & Review,1.5,0
+Unknown Client,Adam Casto,Client Team Meetings,0.5,0
+Unknown Client,Adam Casto,Cash Flow Management,1.0,0
+Unknown Client,Adam Casto,Client Team Meetings,0.5,0
+Unknown Client,Adam Casto,CFO: Other Advisory,2.0,0
+Unknown Client,Adam Casto,Month End: Income Statement Revenue/COGS,1.5,0
+Unknown Client,Adam Casto,Client Team Meetings,1.8333333333333333,0
+Unknown Client,Adam Casto,CFO: Financial Modeling,2.0,0
+Unknown Client,Adam Casto,Month End: Income Statement Operating Expenses,1.5,0
+Unknown Client,Adam Casto,CFO: Financial Modeling,0.3333333333333333,0
+Unknown Client,Elsa Reyes,Month End: Equity,1.5,0
+Unknown Client,Elsa Reyes,Month End:  Assets,1.5,0
+Unknown Client,Elsa Reyes,Month End: Liabilities,1.0,0
+Unknown Client,Elsa Reyes,Month End:  Review (Internal) and Reporting,0.3333333333333333,0
+Unknown Client,Elsa Reyes,Client Team Oversight & Management,1.0,0
+Unknown Client,Elsa Reyes,Client Team Meetings,0.5,0
+Unknown Client,Elsa Reyes,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Elsa Reyes,Internal Admin,0.25,0
+Unknown Client,Elsa Reyes,A/R Invoicing / Cash Application,0.3333333333333333,0
+Unknown Client,Elsa Reyes,Month End: Equity,0.75,0
+Unknown Client,Elsa Reyes,Month End:  Assets,2.75,0
+Unknown Client,Elsa Reyes,Month End: Income Statement Revenue/COGS,3.5,0
+Unknown Client,Elsa Reyes,Month End: Review with Client,0.5,0
+Unknown Client,Elsa Reyes,Client Team Meetings,3.4166666666666665,0
+Unknown Client,Elsa Reyes,Month End: Income Statement Operating Expenses,0.75,0
+Unknown Client,Elsa Reyes,ERP Implementation,11.0,0
+Unknown Client,Elsa Reyes,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Elsa Reyes,A/R Invoicing / Cash Application,1.5833333333333333,0
+Unknown Client,Elsa Reyes,Month End:  Review (Internal) and Reporting,1.6666666666666667,0
+Unknown Client,Eleanor Dotson,Cash Flow Management,4.25,0
+Unknown Client,Eleanor Dotson,A/R Invoicing / Cash Application,2.4166666666666665,0
+Unknown Client,Eleanor Dotson,Ad Hoc,8.0,0
+Unknown Client,Eleanor Dotson,Inventory Implementation,4.783333333333333,0
+Unknown Client,Eleanor Dotson,Ad Hoc,8.1,0
+Unknown Client,Eleanor Dotson,Cash Flow Management,3.5,0
+Unknown Client,Eleanor Dotson,Cash Flow Management,3.5,0
+Unknown Client,Eleanor Dotson,Ad Hoc,0.4166666666666667,0
+Unknown Client,Eleanor Dotson,Internal Trainer,1.0166666666666666,0
+Unknown Client,Eleanor Dotson,Cash Flow Management,2.5,0
+Unknown Client,Eleanor Dotson,Internal Admin,0.75,0
+Unknown Client,Eleanor Dotson,Cash Flow Management,1.25,0
+Unknown Client,Eleanor Dotson,Bill Pay,0.16666666666666666,0
+Unknown Client,Elizabeth Barber,Month End: Review with Client,0.6666666666666666,0
+Unknown Client,Elizabeth Barber,Client Team Meetings,0.25,0
+Unknown Client,Elizabeth Barber,Month End: Liabilities,6.266666666666667,0
+Unknown Client,Elizabeth Barber,Client Team Meetings,1.9333333333333333,0
+Unknown Client,Elizabeth Barber,Cash Flow Management,2.8,0
+Unknown Client,Elizabeth Barber,Internal Admin,0.3333333333333333,0
+Unknown Client,Elizabeth Barber,Client Team Meetings,1.0833333333333333,0
+Unknown Client,Elizabeth Barber,Month End:  Assets,0.43333333333333335,0
+Unknown Client,Elizabeth Barber,Month End: Income Statement Revenue/COGS,1.9166666666666667,0
+Unknown Client,Elizabeth Barber,Month End:  Review (Internal) and Reporting,2.0166666666666666,0
+Unknown Client,Elizabeth Barber,Payroll,0.16666666666666666,0
+Unknown Client,Elizabeth Barber,Ad Hoc,1.9166666666666667,0
+Unknown Client,Elizabeth Barber,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Elizabeth Barber,Cash Flow Management,5.266666666666667,0
+Unknown Client,Elizabeth Barber,Client Team Meetings,7.333333333333333,0
+Unknown Client,Sandy Jones,Ad Hoc,2.1,0
+Unknown Client,Sandy Jones,Ad Hoc,2.3,0
+Unknown Client,Sandy Jones,Client Onboarding,0.2,0
+Unknown Client,Sandy Jones,Client Team Meetings,0.5,0
+Unknown Client,Sandy Jones,Internal Admin,3.0,0
+Unknown Client,Sandy Jones,Month End:  Assets,0.7,0
+Unknown Client,Sandy Jones,Payroll,0.3,0
+Unknown Client,Sandy Jones,Bill Pay,0.9,0
+Unknown Client,Sandy Jones,Internal Admin,0.3,0
+Unknown Client,Sandy Jones,Internal Trainer,2.8,0
+Unknown Client,Sandy Jones,A/R Invoicing / Cash Application,2.6,0
+Unknown Client,Sandy Jones,Ad Hoc,0.6,0
+Unknown Client,Sandy Jones,Ad Hoc,3.5,0
+Unknown Client,Sandy Jones,Payroll,2.0,0
+Unknown Client,Sandy Jones,Ad Hoc,0.2,0
+Unknown Client,Sandy Jones,Month End:  Assets,2.1,0
+Unknown Client,Sandy Jones,Month End: Income Statement Revenue/COGS,0.3,0
+Unknown Client,Sandy Jones,Bill Pay,10.6,0
+Unknown Client,Sandy Jones,Ad Hoc,2.7,0
+Unknown Client,Monica Pintado,Bill Pay,0.25,0
+Unknown Client,Monica Pintado,A/R Invoicing / Cash Application,0.75,0
+Unknown Client,Monica Pintado,Ad Hoc,0.75,0
+Unknown Client,Monica Pintado,Internal Admin,2.25,0
+Unknown Client,Monica Pintado,Bill Pay,1.25,0
+Unknown Client,Monica Pintado,Ad Hoc,9.75,0
+Unknown Client,Heidi Huntington,Internal Admin,2.75,0
+Unknown Client,Heidi Huntington,Client Team Meetings,0.5,0
+Unknown Client,Heidi Huntington,Client Team Meetings,1.5,0
+Unknown Client,Heidi Huntington,Client Team Meetings,9.583333333333334,0
+Unknown Client,Heidi Huntington,CFO: Other Advisory,1.25,0
+Unknown Client,Heidi Huntington,Internal Admin,0.8333333333333334,0
+Unknown Client,Heidi Huntington,Internal Trainer,1.0,0
+Unknown Client,Heidi Huntington,CFO: Other Advisory,10.25,0
+Unknown Client,Heidi Huntington,CFO: Financial Modeling,1.4166666666666667,0
+Unknown Client,Heidi Huntington,CFO: Treasury Management,5.5,0
+Unknown Client,Heidi Huntington,Internal Admin,0.5,0
+Unknown Client,Courtney Hale,A/R Invoicing / Cash Application,0.25,0
+Unknown Client,Courtney Hale,A/R Invoicing / Cash Application,0.5,0
+Unknown Client,Courtney Hale,A/R Invoicing / Cash Application,1.0,0
+Unknown Client,Theresa Owens,CFO: Other Advisory,1.25,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,13.25,0
+Unknown Client,Justin VanAntwerp,CFO: Reporting & Review,2.75,0
+Unknown Client,Justin VanAntwerp,CFO: Financial Modeling,3.5,0
+Unknown Client,Justin VanAntwerp,Cash Flow Management,3.5,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,0.5,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,0.5,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,2.5,0
+Unknown Client,Justin VanAntwerp,CFO: Financial Modeling,5.75,0
+Unknown Client,Justin VanAntwerp,Internal Trainer,3.0,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,1.0,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,0.5,0
+Unknown Client,Justin VanAntwerp,Internal Admin,0.5,0
+Unknown Client,Andi Dencklau,Client Team Meetings,1.0,0
+Unknown Client,Andi Dencklau,Client Team Meetings,4.0,0
+Unknown Client,Andi Dencklau,Client Team Meetings,0.25,0
+Unknown Client,Andi Dencklau,Ad Hoc,1.0,0
+Unknown Client,Andi Dencklau,Cash Flow Management,1.0,0
+Unknown Client,Andi Dencklau,Client Team Meetings,1.0,0
+Unknown Client,Andi Dencklau,Month End: Income Statement Revenue/COGS,2.0,0
+Unknown Client,Andi Dencklau,Client Team Meetings,5.333333333333333,0
+Unknown Client,Andi Dencklau,Ad Hoc,3.5,0
+Unknown Client,Andi Dencklau,Internal Admin,1.3333333333333333,0
+Unknown Client,Andi Dencklau,Ad Hoc,0.5,0
+Unknown Client,Andi Dencklau,Client Team Meetings,1.0,0
+Unknown Client,Andi Dencklau,Month End: Income Statement Revenue/COGS,3.5,0
+Unknown Client,Andi Dencklau,Client Team Oversight & Management,2.0,0
+Unknown Client,Andi Dencklau,Client Team Meetings,5.0,0
+Unknown Client,Andi Dencklau,Team Lead,0.25,0
+Unknown Client,Andi Dencklau,Ad Hoc,0.5,0
+Unknown Client,Andi Dencklau,Ad Hoc,1.0,0
+Unknown Client,Andi Dencklau,Ad Hoc,1.5,0
+Unknown Client,Andi Dencklau,Client Team Meetings,1.0,0
+Unknown Client,Paige Williams,A/R Invoicing / Cash Application,0.25,0
+Unknown Client,Paige Williams,Cash Flow Management,1.0833333333333333,0
+Unknown Client,Paige Williams,A/R Invoicing / Cash Application,1.1166666666666667,0
+Unknown Client,Paige Williams,Ad Hoc,13.65,0
+Unknown Client,Paige Williams,Client Team Meetings,1.1666666666666667,0
+Unknown Client,Paige Williams,Month End: Income Statement Operating Expenses,1.0,0
+Unknown Client,Paige Williams,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Paige Williams,Month End: Liabilities,3.033333333333333,0
+Unknown Client,Paige Williams,Month End: Income Statement Operating Expenses,1.0833333333333333,0
+Unknown Client,Paige Williams,Month End:  Review (Internal) and Reporting,2.1333333333333333,0
+Unknown Client,Paige Williams,Inventory Implementation,0.7,0
+Unknown Client,Paige Williams,Client Team Meetings,0.2,0
+Unknown Client,Paige Williams,Bill Pay,0.45,0
+Unknown Client,Paige Williams,Cash Flow Management,0.31666666666666665,0
+Unknown Client,Paige Williams,Client Team Meetings,0.5,0
+Unknown Client,Paige Williams,Cash Flow Management,1.3833333333333333,0
+Unknown Client,Paige Williams,Inventory Implementation,0.3,0
+Unknown Client,Paige Williams,Internal Admin,0.6666666666666666,0
+Unknown Client,Paige Williams,Client Team Meetings,0.25,0
+Unknown Client,Paige Williams,Ad Hoc,0.13333333333333333,0
+Unknown Client,Paige Williams,Client Team Meetings,1.1666666666666667,0
+Unknown Client,Paige Williams,Cash Flow Management,0.8833333333333333,0
+Unknown Client,Paige Williams,Ad Hoc,1.0333333333333334,0
+Unknown Client,Paige Williams,Bill Pay,0.25,0
+Unknown Client,Paige Williams,Cash Flow Management,0.9666666666666667,0
+Unknown Client,Paige Williams,Sales Tax,0.2833333333333333,0
+Unknown Client,Paige Williams,Client Team Meetings,0.9,0
+Unknown Client,Paige Williams,Client Team Meetings,0.7166666666666667,0
+Unknown Client,Paige Williams,Month End:  Review (Internal) and Reporting,0.7833333333333333,0
+Unknown Client,Paige Williams,Cash Flow Management,0.18333333333333332,0
+Unknown Client,Paige Williams,Payroll,0.25,0
+Unknown Client,Paige Williams,Bill Pay,0.25,0
+Unknown Client,Paige Williams,Bookkeeping,0.6333333333333333,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,1.1666666666666667,0
+Unknown Client,Lu Yan,Client Team Meetings,0.25,0
+Unknown Client,Lu Yan,Client Onboarding,0.75,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,1.3333333333333333,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,0.5833333333333334,0
+Unknown Client,Lu Yan,Client Team Meetings,1.75,0
+Unknown Client,Lu Yan,Cash Flow Management,0.25,0
+Unknown Client,Lu Yan,Cash Flow Management,0.25,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,1.5833333333333333,0
+Unknown Client,Lu Yan,Client Team Meetings,0.5,0
+Unknown Client,Lu Yan,CFO: Fundraising/M&A,0.5833333333333334,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,1.25,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,0.75,0
+Unknown Client,Lu Yan,Ad Hoc,0.3333333333333333,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,3.6666666666666665,0
+Unknown Client,Lu Yan,Client Team Meetings,0.8333333333333334,0
+Unknown Client,Lu Yan,Client Onboarding,1.5,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,0.75,0
+Unknown Client,Lu Yan,Client Team Meetings,0.8333333333333334,0
+Unknown Client,Olivia Wang,Client Team Meetings,0.5,0
+Unknown Client,Olivia Wang,Month End:  Assets,1.25,0
+Unknown Client,Olivia Wang,Month End: Liabilities,1.85,0
+Unknown Client,Olivia Wang,Bookkeeping,1.8666666666666667,0
+Unknown Client,Olivia Wang,Bookkeeping,2.0,0
+Unknown Client,Olivia Wang,Bill Pay,5.4,0
+Unknown Client,Olivia Wang,Sales Tax,0.25,0
+Unknown Client,Olivia Wang,Sales Tax,3.25,0
+Unknown Client,Olivia Wang,Bill Pay,1.8166666666666667,0
+Unknown Client,Olivia Wang,Ad Hoc,8.616666666666667,0
+Unknown Client,Olivia Wang,Client Team Meetings,0.5,0
+Unknown Client,Olivia Wang,Bookkeeping,8.966666666666667,0
+Unknown Client,Olivia Wang,Bill Pay,0.38333333333333336,0
+Unknown Client,Olivia Wang,Internal Admin,0.6666666666666666,0
+Unknown Client,Olivia Wang,Sales Tax,2.3833333333333333,0
+Unknown Client,Olivia Wang,Client Team Meetings,0.3,0
+Unknown Client,Tina Schenk,Bill Pay,8.583333333333334,0
+Unknown Client,Tina Schenk,Month End:  Review (Internal) and Reporting,15.3,0
+Unknown Client,Tina Schenk,Ad Hoc,0.43333333333333335,0
+Unknown Client,Tina Schenk,Bookkeeping,0.7666666666666667,0
+Unknown Client,Tina Schenk,Internal Admin,0.3333333333333333,0
+Unknown Client,Tina Schenk,Client Team Meetings,0.5,0
+Unknown Client,Tina Schenk,Month End: Equity,11.683333333333334,0
+Unknown Client,Emily Sellers,Ad Hoc,1.75,0
+Unknown Client,Emily Sellers,Ad Hoc,0.9166666666666666,0
+Unknown Client,Emily Sellers,Cash Flow Management,1.3333333333333333,0
+Unknown Client,Isaac Carranza,Internal Admin,0.2,0
+Unknown Client,Isaac Carranza,Bookkeeping,6.466666666666667,0
+Unknown Client,Isaac Carranza,Bill Pay,6.216666666666667,0
+Unknown Client,Isaac Carranza,Bookkeeping,4.666666666666667,0
+Unknown Client,Isaac Carranza,Bookkeeping,4.466666666666667,0
+Unknown Client,Isaac Carranza,A/R Invoicing / Cash Application,4.233333333333333,0
+Unknown Client,Isaac Carranza,Bookkeeping,1.9166666666666667,0
+Unknown Client,Isaac Carranza,Bookkeeping,4.2,0
+Unknown Client,Isaac Carranza,Bill Pay,1.1666666666666667,0
+Unknown Client,Nadia Marafioti,Month End:  Assets,1.0,0
+Unknown Client,Nadia Marafioti,Client Team Meetings,0.25,0
+Unknown Client,Nadia Marafioti,Payroll,0.3333333333333333,0
+Unknown Client,Nadia Marafioti,A/R Invoicing / Cash Application,0.5,0
+Unknown Client,Nadia Marafioti,Bill Pay,1.5,0
+Unknown Client,Nadia Marafioti,Inventory Implementation,0.75,0
+Unknown Client,Nadia Marafioti,Month End: Liabilities,0.3333333333333333,0
+Unknown Client,Nadia Marafioti,Month End: Liabilities,1.0,0
+Unknown Client,Nadia Marafioti,Bill Pay,1.0,0
+Unknown Client,Nadia Marafioti,Ad Hoc,1.1666666666666667,0
+Unknown Client,Nadia Marafioti,Bill Pay,1.4166666666666667,0
+Unknown Client,Nadia Marafioti,Month End:  Assets,0.5833333333333334,0
+Unknown Client,Nadia Marafioti,Month End: Liabilities,1.25,0
+Unknown Client,Nadia Marafioti,Month End:  Assets,0.9166666666666666,0
+Unknown Client,Nadia Marafioti,Month End: Liabilities,1.0833333333333333,0
+Unknown Client,Nadia Marafioti,Month End:  Assets,3.1666666666666665,0
+Unknown Client,Nadia Marafioti,Month End: Liabilities,3.6666666666666665,0
+Unknown Client,Nadia Marafioti,Client Team Meetings,2.75,0
+Unknown Client,Nadia Marafioti,A/R Invoicing / Cash Application,11.0,0
+Unknown Client,Nadia Marafioti,Ad Hoc,5.083333333333333,0
+Unknown Client,Nadia Marafioti,Client Team Meetings,1.25,0
+Unknown Client,Nadia Marafioti,Inventory Implementation,1.0,0
+Unknown Client,Nadia Marafioti,Payroll,0.5,0
+Unknown Client,Nicklaus Vega,Bill Pay,0.08333333333333333,0
+Unknown Client,Nicklaus Vega,Month End: Liabilities,1.6166666666666667,0
+Unknown Client,Nicklaus Vega,Bookkeeping,0.26666666666666666,0
+Unknown Client,Nicklaus Vega,Internal Admin,5.633333333333334,0
+Unknown Client,Nicklaus Vega,Month End:  Assets,0.08333333333333333,0
+Unknown Client,Nicklaus Vega,Bookkeeping,0.26666666666666666,0
+Unknown Client,Nicklaus Vega,Bill Pay,2.716666666666667,0
+Unknown Client,Travis Neves,Client Team Meetings,0.5,0
+Unknown Client,Travis Neves,Ad Hoc,2.0833333333333335,0
+Unknown Client,Travis Neves,Client Team Meetings,1.5833333333333333,0
+Unknown Client,Travis Neves,Month End: Liabilities,0.8333333333333334,0
+Unknown Client,Travis Neves,Month End: Income Statement Operating Expenses,1.5,0
+Unknown Client,Travis Neves,Internal Admin,1.25,0
+Unknown Client,Travis Neves,Bill Pay,4.916666666666667,0
+Unknown Client,Travis Neves,Bookkeeping,1.0,0
+Unknown Client,Travis Neves,Ad Hoc,0.6666666666666666,0
+Unknown Client,Travis Neves,Bill Pay,0.5,0
+Unknown Client,Travis Neves,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Travis Neves,Bookkeeping,1.8333333333333333,0
+Unknown Client,Travis Neves,Month End: Income Statement Revenue/COGS,5.25,0
+Unknown Client,Travis Neves,Bookkeeping,8.0,0
+Unknown Client,Travis Neves,Client Team Meetings,0.25,0
+Unknown Client,Helen Homan,Bill Pay,4.45,0
+Unknown Client,Helen Homan,Bill Pay,0.6666666666666666,0
+Unknown Client,Helen Homan,Bill Pay,1.45,0
+Unknown Client,Helen Homan,Month End: Liabilities,1.5333333333333334,0
+Unknown Client,Helen Homan,Bill Pay,2.35,0
+Unknown Client,Helen Homan,Bill Pay,0.6166666666666667,0
+Unknown Client,Helen Homan,Bill Pay,1.85,0
+Unknown Client,Helen Homan,Bill Pay,1.1333333333333333,0
+Unknown Client,Helen Homan,Bill Pay,3.316666666666667,0
+Unknown Client,Helen Homan,Bill Pay,0.55,0
+Unknown Client,Helen Homan,Bill Pay,0.7833333333333333,0
+Unknown Client,Helen Homan,Internal Admin,0.9666666666666667,0
+Unknown Client,Helen Homan,Bill Pay,0.8833333333333333,0
+Unknown Client,Helen Homan,Bill Pay,1.55,0
+Unknown Client,Patricia DeSoi,Internal Admin,0.2833333333333333,0
+Unknown Client,Patricia DeSoi,Month End:  Assets,0.5,0
+Unknown Client,Patricia DeSoi,Month End:  Review (Internal) and Reporting,0.1,0
+Unknown Client,Patricia DeSoi,Month End: Income Statement Revenue/COGS,1.75,0
+Unknown Client,Patricia DeSoi,Month End: Income Statement Operating Expenses,0.48333333333333334,0
+Unknown Client,Patricia DeSoi,Month End:  Assets,0.7833333333333333,0
+Unknown Client,Patricia DeSoi,Month End: Income Statement Revenue/COGS,0.4166666666666667,0
+Unknown Client,Patricia DeSoi,Month End: Liabilities,0.95,0
+Unknown Client,Patricia DeSoi,Month End:  Review (Internal) and Reporting,0.3,0
+Unknown Client,Patricia DeSoi,Ad Hoc,0.95,0
+Unknown Client,Kimberly Maier,Cash Flow Management,0.25,0
+Unknown Client,Kimberly Maier,Payroll,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Month End:  Assets,1.1666666666666667,0
+Unknown Client,Kimberly Maier,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Kimberly Maier,Month End:  Review (Internal) and Reporting,0.16666666666666666,0
+Unknown Client,Kimberly Maier,Sales Tax,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Ad Hoc,1.0,0
+Unknown Client,Kimberly Maier,Cash Flow Management,0.5,0
+Unknown Client,Kimberly Maier,Bill Pay,0.8333333333333334,0
+Unknown Client,Kimberly Maier,Bill Pay,0.5,0
+Unknown Client,Kimberly Maier,Bookkeeping,3.5,0
+Unknown Client,Kimberly Maier,Bill Pay,0.75,0
+Unknown Client,Kimberly Maier,Ad Hoc,3.25,0
+Unknown Client,Kimberly Maier,Client Team Meetings,0.4166666666666667,0
+Unknown Client,Kimberly Maier,Bookkeeping,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Ad Hoc,0.6666666666666666,0
+Unknown Client,Kimberly Maier,Cash Flow Management,1.0,0
+Unknown Client,Kimberly Maier,Bill Pay,0.8333333333333334,0
+Unknown Client,Kimberly Maier,Cash Flow Management,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Month End:  Assets,1.75,0
+Unknown Client,Kimberly Maier,Bill Pay,0.5,0
+Unknown Client,Kimberly Maier,Month End:  Assets,1.25,0
+Unknown Client,Kimberly Maier,Month End: Liabilities,1.4166666666666667,0
+Unknown Client,Kimberly Maier,Payroll,0.5833333333333334,0
+Unknown Client,Kimberly Maier,Client Team Meetings,0.5,0
+Unknown Client,Kimberly Maier,Internal Admin,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Bill Pay,0.25,0
+Unknown Client,Kimberly Maier,Month End:  Assets,0.75,0
+Unknown Client,Kimberly Maier,Month End: Income Statement Revenue/COGS,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Month End: Liabilities,2.0833333333333335,0
+Unknown Client,Kimberly Maier,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Rodney Moore,Ad Hoc,1.0,0
+Unknown Client,Rodney Moore,A/R Invoicing / Cash Application,0.75,0
+Unknown Client,Rodney Moore,Ad Hoc,2.3333333333333335,0
+Unknown Client,Rodney Moore,Month End:  Assets,4.0,0
+Unknown Client,Rodney Moore,Month End: Liabilities,1.3333333333333333,0
+Unknown Client,Rodney Moore,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Rodney Moore,Month End:  Assets,0.8333333333333334,0
+Unknown Client,Rodney Moore,Month End:  Review (Internal) and Reporting,0.16666666666666666,0
+Unknown Client,Rodney Moore,A/R Invoicing / Cash Application,2.0833333333333335,0
+Unknown Client,Rodney Moore,Ad Hoc,3.5833333333333335,0
+Unknown Client,Rodney Moore,Ad Hoc,0.75,0
+Unknown Client,Rodney Moore,Month End:  Review (Internal) and Reporting,0.5833333333333334,0
+Unknown Client,Rodney Moore,Ad Hoc,0.25,0
+Unknown Client,Rodney Moore,Month End:  Assets,2.5,0
+Unknown Client,Rodney Moore,Month End: Income Statement Revenue/COGS,0.5,0
+Unknown Client,Rodney Moore,Client Team Meetings,1.25,0
+Unknown Client,Rodney Moore,Ad Hoc,4.083333333333333,0
+Unknown Client,Rodney Moore,Month End: Liabilities,1.25,0
+Unknown Client,Justin Soto,A/R Invoicing / Cash Application,7.166666666666667,0
+Unknown Client,Justin Soto,Client Team Meetings,0.5,0
+Unknown Client,Justin Soto,Bookkeeping,0.5,0
+Unknown Client,Justin Soto,Internal Admin,0.6666666666666666,0
+Unknown Client,Justin Soto,Bill Pay,0.6666666666666666,0
+Unknown Client,Justin Soto,Bill Pay,1.0,0
+Unknown Client,Justin Soto,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Justin Soto,Bookkeeping,3.8333333333333335,0
+Unknown Client,Justin Soto,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Justin Soto,Bookkeeping,1.3333333333333333,0
+Unknown Client,Justin Soto,Bill Pay,0.8333333333333334,0
+Unknown Client,Justin Soto,Bill Pay,1.6666666666666667,0
+Unknown Client,Justin Soto,Ad Hoc,0.25,0
+Unknown Client,Justin Soto,Client Team Meetings,0.08333333333333333,0
+Unknown Client,Justin Soto,Bill Pay,2.25,0
+Unknown Client,Justin Soto,A/R Invoicing / Cash Application,1.5,0
+Unknown Client,Justin Soto,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Justin Soto,Bookkeeping,10.25,0
+Unknown Client,Justin Soto,Ad Hoc,2.75,0
+Unknown Client,Justin Soto,Ad Hoc,1.0,0
+Unknown Client,KC Fort,Ad Hoc,0.75,0
+Unknown Client,KC Fort,Ad Hoc,9.25,0
+Unknown Client,KC Fort,Ad Hoc,28.25,0
+Unknown Client,KC Fort,Ad Hoc,1.75,0
+Unknown Client,Fabio Silvagni,Team Lead,4.75,0
+Unknown Client,Fabio Silvagni,CFO: Other Advisory,0.6666666666666666,0
+Unknown Client,Fabio Silvagni,CFO: Other Advisory,4.5,0
+Unknown Client,Fabio Silvagni,CFO: Fundraising/M&A,7.75,0
+Unknown Client,Fabio Silvagni,Client Team Meetings,0.5833333333333334,0
+Unknown Client,Fabio Silvagni,CFO: Treasury Management,0.25,0
+Unknown Client,Fabio Silvagni,CFO: Fundraising/M&A,1.0,0
+Unknown Client,Fabio Silvagni,Client Team Meetings,1.5,0
+Unknown Client,Fabio Silvagni,CFO: Other Advisory,4.0,0
+Unknown Client,Fabio Silvagni,CFO: Reporting & Review,9.0,0
+Unknown Client,Fabio Silvagni,Client Team Meetings,3.25,0
+Unknown Client,Fabio Silvagni,CFO: Financial Modeling,7.5,0
+Unknown Client,James Tran,A/R Invoicing / Cash Application,3.05,0
+Unknown Client,James Tran,Client Team Meetings,2.5,0
+Unknown Client,James Tran,Month End: Liabilities,0.9166666666666666,0
+Unknown Client,James Tran,Internal Admin,0.18333333333333332,0
+Unknown Client,James Tran,Client Team Meetings,0.5,0
+Unknown Client,James Tran,Month End: Liabilities,4.966666666666667,0
+Unknown Client,James Tran,Month End: Income Statement Operating Expenses,3.3333333333333335,0
+Unknown Client,James Tran,Month End:  Assets,7.666666666666667,0
+Unknown Client,James Tran,Bookkeeping,0.5,0
+Unknown Client,James Tran,Month End: Income Statement Operating Expenses,1.3833333333333333,0
+Unknown Client,James Tran,Payroll,0.8,0
+Unknown Client,James Tran,Month End:  Assets,0.25,0
+Unknown Client,James Tran,Month End: Income Statement Operating Expenses,1.4166666666666667,0
+Unknown Client,Bernirene Ramos,Internal Admin,0.6666666666666666,0
+Unknown Client,Bernirene Ramos,Bill Pay,2.5,0
+Unknown Client,Bernirene Ramos,Bill Pay,1.0,0
+Unknown Client,Bernirene Ramos,Internal Admin,0.5,0
+Unknown Client,Bernirene Ramos,Internal Admin,0.5,0
+Unknown Client,Bernirene Ramos,Bookkeeping,0.25,0
+Unknown Client,Bernirene Ramos,Month End:  Review (Internal) and Reporting,0.25,0
+Unknown Client,Bernirene Ramos,Client Team Meetings,0.5,0
+Unknown Client,Bernirene Ramos,Bookkeeping,4.583333333333333,0
+Unknown Client,Bernirene Ramos,Month End:  Assets,0.8333333333333334,0
+Unknown Client,Bernirene Ramos,Month End: Liabilities,0.5,0
+Unknown Client,Bernirene Ramos,Bookkeeping,1.3333333333333333,0
+Unknown Client,Bernirene Ramos,Bill Pay,4.333333333333333,0
+Unknown Client,Bernirene Ramos,Month End:  Assets,0.3333333333333333,0
+Unknown Client,Bernirene Ramos,Month End: Liabilities,1.75,0
+Unknown Client,Bernirene Ramos,Bookkeeping,1.4166666666666667,0
+Unknown Client,Bernirene Ramos,Bookkeeping,1.0,0
+Unknown Client,Bernirene Ramos,Ad Hoc,0.25,0
+Unknown Client,Bernirene Ramos,Bill Pay,0.25,0
+Unknown Client,Bernirene Ramos,Bill Pay,0.9166666666666666,0
+Unknown Client,Bernirene Ramos,Internal Admin,0.16666666666666666,0
+Unknown Client,Devon Ponds,Team Lead,8.5,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,8.25,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,4.25,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,6.75,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,2.5,0
+Unknown Client,Laura Willoughby,Ad Hoc,1.65,0
+Unknown Client,Laura Willoughby,Team Lead,0.75,0
+Unknown Client,Tiesha Anderson,Client Team Meetings,1.9333333333333333,0
+Unknown Client,Tiesha Anderson,Internal Admin,0.6333333333333333,0
+Unknown Client,Tiesha Anderson,Client Team Meetings,0.5333333333333333,0
+Unknown Client,Tiesha Anderson,Bookkeeping,3.8333333333333335,0
+Unknown Client,Tiesha Anderson,Bookkeeping,1.3,0
+Unknown Client,Tiesha Anderson,Bookkeeping,7.7,0
+Unknown Client,Tiesha Anderson,Bookkeeping,9.916666666666666,0
+Unknown Client,Brenda Pearson,Bill Pay,1.5,0
+Unknown Client,Brenda Pearson,Client Team Meetings,0.5,0
+Unknown Client,Brenda Pearson,Sick,9.0,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Operating Expenses,0.5,0
+Unknown Client,Brenda Pearson,Bill Pay,0.5,0
+Unknown Client,Brenda Pearson,Bill Pay,3.75,0
+Unknown Client,Brenda Pearson,Cash Flow Management,1.0,0
+Unknown Client,Brenda Pearson,Bill Pay,0.25,0
+Unknown Client,Brenda Pearson,Bill Pay,0.5,0
+Unknown Client,Brenda Pearson,Bill Pay,0.25,0
+Unknown Client,Brenda Pearson,Bookkeeping,0.5,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Operating Expenses,1.0,0
+Unknown Client,Brenda Pearson,Bill Pay,0.25,0
+Unknown Client,Brenda Pearson,Month End: Liabilities,3.5,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Operating Expenses,1.25,0
+Unknown Client,Brenda Pearson,Bill Pay,2.0,0
+Unknown Client,Brenda Pearson,Bill Pay,2.0,0
+Unknown Client,Brenda Pearson,Bookkeeping,0.25,0
+Unknown Client,Brenda Pearson,Bill Pay,0.25,0
+Unknown Client,Brenda Pearson,Bill Pay,4.5,0
+Unknown Client,Brenda Pearson,Bill Pay,1.5,0
+Unknown Client,Brenda Pearson,Client Team Meetings,0.25,0
+Unknown Client,Brenda Pearson,Bill Pay,0.75,0
+Unknown Client,Brenda Pearson,Month End:  Assets,0.25,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Revenue/COGS,1.25,0
+Unknown Client,Brenda Pearson,Month End: Liabilities,0.75,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Operating Expenses,1.25,0
+Unknown Client,Brenda Pearson,Bill Pay,0.75,0
+Unknown Client,Chris Loyd,Internal Admin,16.583333333333332,0
+Unknown Client,Amy Morris,Internal Admin,1.5,0
+Unknown Client,Amy Morris,Month End:  Assets,2.0,0
+Unknown Client,Amy Morris,Month End: Liabilities,1.0,0
+Unknown Client,Amy Morris,Month End:  Review (Internal) and Reporting,0.5,0
+Unknown Client,Amy Morris,Client Team Meetings,2.25,0
+Unknown Client,Amy Morris,Client Onboarding,2.0,0
+Unknown Client,LaShaun Neal,Bookkeeping,2.3333333333333335,0
+Unknown Client,LaShaun Neal,Bill Pay,11.2,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.3,0
+Unknown Client,LaShaun Neal,Bill Pay,1.05,0
+Unknown Client,LaShaun Neal,Bookkeeping,2.5,0
+Unknown Client,LaShaun Neal,Bookkeeping,1.4666666666666666,0
+Unknown Client,LaShaun Neal,Bookkeeping,3.8333333333333335,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.38333333333333336,0
+Unknown Client,LaShaun Neal,Bookkeeping,12.616666666666667,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.75,0
+Unknown Client,LaShaun Neal,Internal Admin,0.6333333333333333,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.4166666666666667,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.3333333333333333,0
+Unknown Client,Benjamin How,Month End: Review with Client,1.0,0
+Unknown Client,Benjamin How,Month End:  Review (Internal) and Reporting,1.7,0
+Unknown Client,Benjamin How,Ad Hoc,0.5333333333333333,0
+Unknown Client,Benjamin How,Client Team Meetings,2.8333333333333335,0
+Unknown Client,Benjamin How,Bookkeeping,1.7666666666666666,0
+Unknown Client,Benjamin How,Internal Admin,1.7,0
+Unknown Client,Benjamin How,Internal Transition,1.6666666666666667,0
+Unknown Client,Benjamin How,Month End:  Review (Internal) and Reporting,1.3333333333333333,0
+Unknown Client,Benjamin How,Payroll,0.5,0
+Unknown Client,Benjamin How,Month End:  Assets,2.4,0
+Unknown Client,Benjamin How,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Benjamin How,Month End: Liabilities,1.6333333333333333,0
+Unknown Client,Benjamin How,Month End: Income Statement Operating Expenses,1.7333333333333334,0
+Unknown Client,Benjamin How,Month End:  Review (Internal) and Reporting,3.8,0
+Unknown Client,Benjamin How,Cash Flow Management,2.0,0
+Unknown Client,Benjamin How,Ad Hoc,0.75,0
+Unknown Client,Benjamin How,Client Team Meetings,2.183333333333333,0
+Unknown Client,William Martens,Client Team Meetings,0.5,0
+Unknown Client,William Martens,Ad Hoc,1.0,0
+Unknown Client,William Martens,Client Team Meetings,1.0833333333333333,0
+Unknown Client,William Martens,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,William Martens,Internal Admin,1.9166666666666667,0
+Unknown Client,William Martens,Client Team Meetings,1.0,0
+Unknown Client,William Martens,Month End:  Review (Internal) and Reporting,0.6666666666666666,0
+Unknown Client,William Martens,Client Team Meetings,0.75,0
+Unknown Client,William Martens,Client Non Billable,0.25,0
+Unknown Client,William Martens,Client Team Oversight & Management,0.5,0
+Unknown Client,William Martens,Bookkeeping,1.1666666666666667,0
+Unknown Client,William Martens,Month End:  Review (Internal) and Reporting,1.8333333333333333,0
+Unknown Client,William Martens,Ad Hoc,4.083333333333333,0
+Unknown Client,William Martens,Client Team Meetings,1.1666666666666667,0
+Unknown Client,William Martens,Ad Hoc,2.0,0
+Unknown Client,William Martens,Month End:  Review (Internal) and Reporting,2.1666666666666665,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,5.35,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,4.05,0
+Unknown Client,Philip Cruz-Levitt,Client Team Oversight & Management,0.5,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,1.25,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,0.9166666666666666,0
+Unknown Client,Philip Cruz-Levitt,Month End: Review with Client,0.8333333333333334,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,7.8,0
+Unknown Client,Jacob Lazzell,Month End:  Review (Internal) and Reporting,0.3333333333333333,0
+Unknown Client,Jacob Lazzell,Month End:  Assets,0.4166666666666667,0
+Unknown Client,Jacob Lazzell,Month End: Liabilities,0.5833333333333334,0
+Unknown Client,Jacob Lazzell,Month End:  Review (Internal) and Reporting,5.0,0
+Unknown Client,Jacob Lazzell,Client Team Meetings,0.25,0
+Unknown Client,Jacob Lazzell,Month End:  Assets,1.1666666666666667,0
+Unknown Client,Jacob Lazzell,Month End: Income Statement Revenue/COGS,0.9166666666666666,0
+Unknown Client,Jacob Lazzell,Month End: Liabilities,0.8333333333333334,0
+Unknown Client,Jacob Lazzell,Month End: Income Statement Operating Expenses,1.4166666666666667,0
+Unknown Client,Jacob Lazzell,Internal Admin,0.75,0
+Unknown Client,Jacob Lazzell,Month End:  Review (Internal) and Reporting,1.8333333333333333,0
+Unknown Client,Jacob Lazzell,A/R Invoicing / Cash Application,1.25,0
+Unknown Client,Jacob Lazzell,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Daniel Johnson,Cash Flow Management,1.5,0
+Unknown Client,Daniel Johnson,Month End:  Assets,0.75,0
+Unknown Client,Daniel Johnson,Ad Hoc,0.75,0
+Unknown Client,Daniel Johnson,Client Team Meetings,0.5,0
+Unknown Client,Daniel Johnson,Month End:  Assets,1.0,0
+Unknown Client,Daniel Johnson,Bill Pay,0.75,0
+Unknown Client,Daniel Johnson,Month End:  Assets,9.75,0
+Unknown Client,Daniel Johnson,Bill Pay,0.5,0
+Unknown Client,Daniel Johnson,Bill Pay,0.25,0
+Unknown Client,Daniel Johnson,Ad Hoc,0.75,0
+Unknown Client,Daniel Johnson,Client Team Meetings,1.25,0
+Unknown Client,Daniel Johnson,Ad Hoc,21.0,0
+Unknown Client,Zac Simons,A/R Invoicing / Cash Application,8.25,0
+Unknown Client,Zac Simons,Client Team Meetings,0.5,0
+Unknown Client,Zac Simons,Bookkeeping,1.0,0
+Unknown Client,Zac Simons,Month End:  Assets,0.5,0
+Unknown Client,Zac Simons,Ad Hoc,7.25,0
+Unknown Client,Tanner Meeks,Ad Hoc,2.25,0
+Unknown Client,Tanner Meeks,Month End:  Assets,0.75,0
+Unknown Client,Tanner Meeks,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Tanner Meeks,Internal Admin,1.0,0
+Unknown Client,Tanner Meeks,Ad Hoc,1.75,0
+Unknown Client,Tanner Meeks,Ad Hoc,1.3333333333333333,0
+Unknown Client,Tanner Meeks,Ad Hoc,1.65,0
+Unknown Client,Tanner Meeks,Month End:  Assets,0.75,0
+Unknown Client,Tanner Meeks,Month End:  Review (Internal) and Reporting,4.133333333333334,0
+Unknown Client,Tanner Meeks,Ad Hoc,4.25,0
+Unknown Client,Tanner Meeks,Ad Hoc,2.8833333333333333,0
+Unknown Client,Brian Prehn,CFO: Reporting & Review,1.25,0
+Unknown Client,Brian Prehn,CFO: Reporting & Review,4.0,0
+Unknown Client,Brian Prehn,CFO: Reporting & Review,1.25,0
+Unknown Client,Brian Prehn,Internal Admin,4.75,0
+Unknown Client,Brian Prehn,CFO: Reporting & Review,3.5,0
+Unknown Client,Brian Prehn,CFO: Other Advisory,1.0,0
+Unknown Client,Brian Prehn,CFO: Reporting & Review,5.0,0
+Unknown Client,Brian Prehn,CFO: Other Advisory,0.5,0
+Unknown Client,Adam Casto,Month End:  Assets,1.0,0
+Unknown Client,Adam Casto,Month End: Income Statement Revenue/COGS,2.0,0
+Unknown Client,Adam Casto,Month End: Review with Client,1.0,0
+Unknown Client,Adam Casto,Month End: Liabilities,1.0,0
+Unknown Client,Adam Casto,Month End: Income Statement Operating Expenses,2.0,0
+Unknown Client,Adam Casto,Month End:  Review (Internal) and Reporting,2.0,0
+Unknown Client,Adam Casto,CFO: Reporting & Review,0.25,0
+Unknown Client,Adam Casto,Client Team Meetings,1.0,0
+Unknown Client,Adam Casto,Cash Flow Management,0.25,0
+Unknown Client,Adam Casto,Client Team Meetings,1.0,0
+Unknown Client,Adam Casto,CFO: Reporting & Review,0.75,0
+Unknown Client,Adam Casto,CFO: Other Advisory,2.0,0
+Unknown Client,Adam Casto,CFO: Financial Modeling,2.0,0
+Unknown Client,Adam Casto,Client Team Meetings,0.5,0
+Unknown Client,Adam Casto,Cash Flow Management,1.0,0
+Unknown Client,Adam Casto,CFO: Other Advisory,0.75,0
+Unknown Client,Adam Casto,Month End: Income Statement Revenue/COGS,1.5,0
+Unknown Client,Adam Casto,Client Team Meetings,0.9166666666666666,0
+Unknown Client,Adam Casto,Client Non Billable,1.0,0
+Unknown Client,Elsa Reyes,Month End:  Assets,2.8333333333333335,0
+Unknown Client,Elsa Reyes,Month End:  Review (Internal) and Reporting,3.6666666666666665,0
+Unknown Client,Elsa Reyes,Internal Admin,0.5,0
+Unknown Client,Elsa Reyes,A/R Invoicing / Cash Application,0.4166666666666667,0
+Unknown Client,Elsa Reyes,Month End: Equity,0.3333333333333333,0
+Unknown Client,Elsa Reyes,Month End:  Assets,2.5,0
+Unknown Client,Elsa Reyes,Month End: Income Statement Revenue/COGS,2.25,0
+Unknown Client,Elsa Reyes,Month End: Liabilities,4.083333333333333,0
+Unknown Client,Elsa Reyes,Month End:  Review (Internal) and Reporting,2.0,0
+Unknown Client,Elsa Reyes,ERP Implementation,2.25,0
+Unknown Client,Elsa Reyes,Internal Trainer,1.3333333333333333,0
+Unknown Client,Elsa Reyes,Month End:  Review (Internal) and Reporting,0.4166666666666667,0
+Unknown Client,Eleanor Dotson,Client Team Oversight & Management,1.5833333333333333,0
+Unknown Client,Eleanor Dotson,Ad Hoc,7.833333333333333,0
+Unknown Client,Eleanor Dotson,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Eleanor Dotson,Cash Flow Management,5.5,0
+Unknown Client,Eleanor Dotson,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Eleanor Dotson,Ad Hoc,1.0,0
+Unknown Client,Eleanor Dotson,Ad Hoc,1.0833333333333333,0
+Unknown Client,Eleanor Dotson,Internal Trainer,2.2666666666666666,0
+Unknown Client,Eleanor Dotson,Ad Hoc,1.0166666666666666,0
+Unknown Client,Eleanor Dotson,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Elizabeth Barber,Month End: Income Statement Revenue/COGS,0.75,0
+Unknown Client,Elizabeth Barber,Month End: Liabilities,0.43333333333333335,0
+Unknown Client,Elizabeth Barber,Month End:  Review (Internal) and Reporting,3.0833333333333335,0
+Unknown Client,Elizabeth Barber,Month End:  Assets,8.566666666666666,0
+Unknown Client,Elizabeth Barber,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Elizabeth Barber,Client Team Meetings,0.25,0
+Unknown Client,Sarah Edwards,Internal Admin,16.25,0
+Unknown Client,Sandy Jones,Ad Hoc,0.5,0
+Unknown Client,Sandy Jones,Month End:  Assets,0.8,0
+Unknown Client,Sandy Jones,Internal Trainer,1.4,0
+Unknown Client,Sandy Jones,Bill Pay,2.5,0
+Unknown Client,Sandy Jones,Ad Hoc,1.8,0
+Unknown Client,Sandy Jones,Client Team Meetings,0.8,0
+Unknown Client,Sandy Jones,Bill Pay,1.2,0
+Unknown Client,Sandy Jones,Payroll,0.7,0
+Unknown Client,Sandy Jones,Payroll,0.3,0
+Unknown Client,Sandy Jones,Month End: Income Statement Revenue/COGS,0.3,0
+Unknown Client,Sandy Jones,Month End: Liabilities,1.3,0
+Unknown Client,Sandy Jones,Ad Hoc,1.5,0
+Unknown Client,Monica Pintado,Month End:  Assets,1.5,0
+Unknown Client,Monica Pintado,Month End: Liabilities,0.75,0
+Unknown Client,Monica Pintado,Ad Hoc,0.25,0
+Unknown Client,Monica Pintado,Ad Hoc,1.5,0
+Unknown Client,Monica Pintado,Month End:  Assets,2.5,0
+Unknown Client,Monica Pintado,Month End: Liabilities,5.5,0
+Unknown Client,Monica Pintado,Ad Hoc,4.25,0
+Unknown Client,Monica Pintado,Month End:  Assets,2.75,0
+Unknown Client,Monica Pintado,Month End: Liabilities,0.75,0
+Unknown Client,Monica Pintado,Month End:  Assets,1.5,0
+Unknown Client,Monica Pintado,Sales Tax,2.0,0
+Unknown Client,Monica Pintado,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Heidi Huntington,CFO: Treasury Management,1.9166666666666667,0
+Unknown Client,Heidi Huntington,CFO: Reporting & Review,0.75,0
+Unknown Client,Heidi Huntington,CFO: Reporting & Review,0.5833333333333334,0
+Unknown Client,Heidi Huntington,Client Team Meetings,9.166666666666666,0
+Unknown Client,Heidi Huntington,CFO: Fundraising/M&A,1.9166666666666667,0
+Unknown Client,Heidi Huntington,Internal Trainer,1.0,0
+Unknown Client,Heidi Huntington,CFO: Reporting & Review,1.9166666666666667,0
+Unknown Client,Heidi Huntington,CFO: Financial Modeling,1.0,0
+Unknown Client,Heidi Huntington,CFO: Other Advisory,2.1666666666666665,0
+Unknown Client,Heidi Huntington,CFO: Fundraising/M&A,2.25,0
+Unknown Client,Heidi Huntington,Cash Flow Management,0.75,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,11.5,0
+Unknown Client,Justin VanAntwerp,CFO: Reporting & Review,4.0,0
+Unknown Client,Justin VanAntwerp,CFO: Reporting & Review,0.5,0
+Unknown Client,Justin VanAntwerp,Internal Trainer,1.5,0
+Unknown Client,Justin VanAntwerp,CFO: Other Advisory,0.5,0
+Unknown Client,Justin VanAntwerp,Internal Admin,1.5,0
+Unknown Client,Andi Dencklau,Month End:  Review (Internal) and Reporting,0.5,0
+Unknown Client,Andi Dencklau,Month End:  Assets,2.0,0
+Unknown Client,Andi Dencklau,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Andi Dencklau,Month End: Income Statement Revenue/COGS,1.5,0
+Unknown Client,Andi Dencklau,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Andi Dencklau,Cash Flow Management,0.3333333333333333,0
+Unknown Client,Andi Dencklau,Month End: Income Statement Revenue/COGS,2.0,0
+Unknown Client,Andi Dencklau,Month End:  Assets,1.0,0
+Unknown Client,Andi Dencklau,Client Team Meetings,0.25,0
+Unknown Client,Andi Dencklau,Month End:  Review (Internal) and Reporting,3.4166666666666665,0
+Unknown Client,Andi Dencklau,Month End:  Review (Internal) and Reporting,7.0,0
+Unknown Client,Andi Dencklau,Internal Trainer,1.5,0
+Unknown Client,Andi Dencklau,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Andi Dencklau,Client Team Meetings,3.0,0
+Unknown Client,Andi Dencklau,Month End:  Review (Internal) and Reporting,0.5833333333333334,0
+Unknown Client,Paige Williams,Bill Pay,0.11666666666666667,0
+Unknown Client,Paige Williams,Ad Hoc,2.8833333333333333,0
+Unknown Client,Paige Williams,Month End:  Assets,0.9833333333333333,0
+Unknown Client,Paige Williams,Client Team Meetings,0.95,0
+Unknown Client,Paige Williams,Ad Hoc,0.7333333333333333,0
+Unknown Client,Paige Williams,Cash Flow Management,0.65,0
+Unknown Client,Paige Williams,Cash Flow Management,0.7,0
+Unknown Client,Paige Williams,Month End: Income Statement Revenue/COGS,0.8333333333333334,0
+Unknown Client,Paige Williams,Client Team Meetings,0.85,0
+Unknown Client,Paige Williams,Month End:  Assets,0.75,0
+Unknown Client,Paige Williams,Month End: Income Statement Operating Expenses,3.433333333333333,0
+Unknown Client,Paige Williams,Cash Flow Management,0.5,0
+Unknown Client,Paige Williams,Ad Hoc,0.4166666666666667,0
+Unknown Client,Paige Williams,Month End:  Assets,0.9666666666666667,0
+Unknown Client,Paige Williams,Month End: Income Statement Operating Expenses,2.533333333333333,0
+Unknown Client,Paige Williams,Month End:  Review (Internal) and Reporting,0.5333333333333333,0
+Unknown Client,Paige Williams,Cash Flow Management,1.5666666666666667,0
+Unknown Client,Paige Williams,Bookkeeping,0.75,0
+Unknown Client,Paige Williams,Month End: Liabilities,0.35,0
+Unknown Client,Paige Williams,Month End:  Review (Internal) and Reporting,0.11666666666666667,0
+Unknown Client,Paige Williams,Inventory Implementation,0.8666666666666667,0
+Unknown Client,Paige Williams,Bill Pay,0.21666666666666667,0
+Unknown Client,Paige Williams,Client Team Meetings,0.6166666666666667,0
+Unknown Client,Paige Williams,Client Team Meetings,0.7833333333333333,0
+Unknown Client,Paige Williams,Month End:  Assets,1.2666666666666666,0
+Unknown Client,Paige Williams,Ad Hoc,0.38333333333333336,0
+Unknown Client,Paige Williams,Inventory Implementation,0.9833333333333333,0
+Unknown Client,Paige Williams,Month End: Income Statement Operating Expenses,0.6,0
+Unknown Client,Paige Williams,Cash Flow Management,0.75,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,1.5,0
+Unknown Client,Lu Yan,Client Onboarding,0.8333333333333334,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,1.8333333333333333,0
+Unknown Client,Lu Yan,CFO: Financial Modeling,1.25,0
+Unknown Client,Lu Yan,Client Team Meetings,0.5833333333333334,0
+Unknown Client,Lu Yan,Client Team Meetings,2.25,0
+Unknown Client,Lu Yan,CFO: Financial Modeling,0.5833333333333334,0
+Unknown Client,Lu Yan,Cash Flow Management,0.3333333333333333,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,0.6666666666666666,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,0.75,0
+Unknown Client,Lu Yan,CFO: Reporting & Review,3.6666666666666665,0
+Unknown Client,Lu Yan,Client Team Meetings,3.0,0
+Unknown Client,Olivia Wang,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Olivia Wang,Month End:  Assets,1.2333333333333334,0
+Unknown Client,Olivia Wang,Month End: Liabilities,3.3833333333333333,0
+Unknown Client,Olivia Wang,Bill Pay,0.16666666666666666,0
+Unknown Client,Olivia Wang,Bookkeeping,2.3,0
+Unknown Client,Olivia Wang,Bill Pay,3.1333333333333333,0
+Unknown Client,Olivia Wang,Bookkeeping,2.75,0
+Unknown Client,Olivia Wang,Payroll,2.3666666666666667,0
+Unknown Client,Olivia Wang,Ad Hoc,1.05,0
+Unknown Client,Olivia Wang,Client Team Meetings,0.5,0
+Unknown Client,Olivia Wang,Sales Tax,6.416666666666667,0
+Unknown Client,Tina Schenk,Client Team Meetings,0.6333333333333333,0
+Unknown Client,Tina Schenk,Bookkeeping,5.883333333333334,0
+Unknown Client,Tina Schenk,Bookkeeping,1.1666666666666667,0
+Unknown Client,Tina Schenk,Bill Pay,9.316666666666666,0
+Unknown Client,Tina Schenk,Bookkeeping,2.3333333333333335,0
+Unknown Client,Tina Schenk,Client Team Meetings,1.25,0
+Unknown Client,Tina Schenk,Month End: Equity,2.566666666666667,0
+Unknown Client,Tina Schenk,Month End: Income Statement Revenue/COGS,9.633333333333333,0
+Unknown Client,Tina Schenk,Month End:  Review (Internal) and Reporting,3.433333333333333,0
+Unknown Client,Emily Sellers,Ad Hoc,0.75,0
+Unknown Client,Emily Sellers,Month End: Income Statement Revenue/COGS,0.8333333333333334,0
+Unknown Client,Emily Sellers,Month End: Income Statement Operating Expenses,0.5,0
+Unknown Client,Emily Sellers,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Emily Sellers,Sales Tax,0.75,0
+Unknown Client,Emily Sellers,Month End:  Review (Internal) and Reporting,1.4166666666666667,0
+Unknown Client,Emily Sellers,Cash Flow Management,1.6666666666666667,0
+Unknown Client,Isaac Carranza,Bill Pay,7.25,0
+Unknown Client,Isaac Carranza,Bookkeeping,1.0,0
+Unknown Client,Isaac Carranza,Bookkeeping,1.3,0
+Unknown Client,Isaac Carranza,Bookkeeping,3.0833333333333335,0
+Unknown Client,Isaac Carranza,Bill Pay,4.333333333333333,0
+Unknown Client,Isaac Carranza,Bookkeeping,4.0,0
+Unknown Client,Nadia Marafioti,Bill Pay,0.75,0
+Unknown Client,Nadia Marafioti,Cash Flow Management,0.9166666666666666,0
+Unknown Client,Nadia Marafioti,Month End: Liabilities,2.75,0
+Unknown Client,Nadia Marafioti,Month End: Income Statement Operating Expenses,0.5833333333333334,0
+Unknown Client,Nadia Marafioti,Month End:  Assets,6.916666666666667,0
+Unknown Client,Nadia Marafioti,Month End: Liabilities,7.75,0
+Unknown Client,Nadia Marafioti,Ad Hoc,0.5,0
+Unknown Client,Nadia Marafioti,Client Team Meetings,1.5833333333333333,0
+Unknown Client,Nadia Marafioti,Cash Flow Management,1.8333333333333333,0
+Unknown Client,Nicklaus Vega,Bookkeeping,0.4166666666666667,0
+Unknown Client,Nicklaus Vega,Internal Admin,0.5,0
+Unknown Client,Nicklaus Vega,Bookkeeping,0.25,0
+Unknown Client,Nicklaus Vega,Bill Pay,0.7166666666666667,0
+Unknown Client,Nicklaus Vega,Internal Admin,23.75,0
+Unknown Client,Nicklaus Vega,Client Team Meetings,0.2833333333333333,0
+Unknown Client,Nicklaus Vega,Bill Pay,0.36666666666666664,0
+Unknown Client,Nicklaus Vega,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Travis Neves,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Travis Neves,Month End: Income Statement Revenue/COGS,0.5,0
+Unknown Client,Travis Neves,Month End: Liabilities,1.0,0
+Unknown Client,Travis Neves,Month End:  Review (Internal) and Reporting,1.5833333333333333,0
+Unknown Client,Travis Neves,Bookkeeping,0.25,0
+Unknown Client,Travis Neves,Internal Admin,1.9166666666666667,0
+Unknown Client,Travis Neves,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Travis Neves,Bill Pay,1.5,0
+Unknown Client,Travis Neves,Client Team Meetings,0.25,0
+Unknown Client,Travis Neves,Month End:  Assets,2.0,0
+Unknown Client,Travis Neves,Month End: Liabilities,1.0,0
+Unknown Client,Travis Neves,Month End: Income Statement Operating Expenses,1.0,0
+Unknown Client,Travis Neves,Internal Admin,0.5,0
+Unknown Client,Helen Homan,Bill Pay,0.9333333333333333,0
+Unknown Client,Helen Homan,Bill Pay,0.08333333333333333,0
+Unknown Client,Helen Homan,Bill Pay,1.6333333333333333,0
+Unknown Client,Helen Homan,Bill Pay,3.816666666666667,0
+Unknown Client,Helen Homan,Bill Pay,1.55,0
+Unknown Client,Helen Homan,Bill Pay,1.6166666666666667,0
+Unknown Client,Helen Homan,Bill Pay,0.36666666666666664,0
+Unknown Client,Helen Homan,Bill Pay,1.4833333333333334,0
+Unknown Client,Helen Homan,Bill Pay,2.183333333333333,0
+Unknown Client,Patricia DeSoi,Month End: Income Statement Operating Expenses,1.8166666666666667,0
+Unknown Client,Patricia DeSoi,Month End:  Review (Internal) and Reporting,1.1166666666666667,0
+Unknown Client,Patricia DeSoi,Ad Hoc,2.0833333333333335,0
+Unknown Client,Patricia DeSoi,Month End: Review with Client,0.3333333333333333,0
+Unknown Client,Patricia DeSoi,Month End:  Review (Internal) and Reporting,1.4,0
+Unknown Client,Patricia DeSoi,Month End: Review with Client,1.0,0
+Unknown Client,Kimberly Maier,Cash Flow Management,1.0,0
+Unknown Client,Kimberly Maier,CFO: Reporting & Review,0.5833333333333334,0
+Unknown Client,Kimberly Maier,Cash Flow Management,0.8333333333333334,0
+Unknown Client,Kimberly Maier,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Kimberly Maier,Bill Pay,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Bill Pay,0.25,0
+Unknown Client,Kimberly Maier,Client Team Meetings,0.25,0
+Unknown Client,Kimberly Maier,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Kimberly Maier,Cash Flow Management,0.75,0
+Unknown Client,Kimberly Maier,Ad Hoc,1.0,0
+Unknown Client,Kimberly Maier,Client Team Meetings,0.5833333333333334,0
+Unknown Client,Kimberly Maier,Month End:  Assets,1.0333333333333334,0
+Unknown Client,Kimberly Maier,Internal Trainer,1.25,0
+Unknown Client,Kimberly Maier,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Kimberly Maier,Internal Admin,0.5,0
+Unknown Client,Kimberly Maier,Bill Pay,1.25,0
+Unknown Client,Kimberly Maier,Month End:  Assets,0.3333333333333333,0
+Unknown Client,Kimberly Maier,Month End: Liabilities,1.25,0
+Unknown Client,Kimberly Maier,Cash Flow Management,0.75,0
+Unknown Client,Kimberly Maier,Bookkeeping,0.16666666666666666,0
+Unknown Client,Kimberly Maier,Ad Hoc,3.4166666666666665,0
+Unknown Client,Kimberly Maier,Client Team Meetings,2.0,0
+Unknown Client,Kimberly Maier,Ad Hoc,0.75,0
+Unknown Client,Kimberly Maier,Bill Pay,0.16666666666666666,0
+Unknown Client,Kimberly Maier,Ad Hoc,1.0,0
+Unknown Client,Rodney Moore,Ad Hoc,1.0833333333333333,0
+Unknown Client,Rodney Moore,Client Team Meetings,0.5,0
+Unknown Client,Rodney Moore,Ad Hoc,0.5,0
+Unknown Client,Rodney Moore,Ad Hoc,0.25,0
+Unknown Client,Rodney Moore,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Rodney Moore,Month End: Income Statement Operating Expenses,1.5,0
+Unknown Client,Rodney Moore,A/R Invoicing / Cash Application,1.6666666666666667,0
+Unknown Client,Rodney Moore,Month End: Income Statement Operating Expenses,1.1666666666666667,0
+Unknown Client,Rodney Moore,Ad Hoc,0.25,0
+Unknown Client,Rodney Moore,Month End: Income Statement Revenue/COGS,3.4166666666666665,0
+Unknown Client,Rodney Moore,Ad Hoc,0.16666666666666666,0
+Unknown Client,Rodney Moore,Ad Hoc,0.75,0
+Unknown Client,Rodney Moore,A/R Invoicing / Cash Application,2.75,0
+Unknown Client,Rodney Moore,Ad Hoc,0.3333333333333333,0
+Unknown Client,Rodney Moore,Client Team Meetings,0.3333333333333333,0
+Unknown Client,KC Fort,Ad Hoc,5.0,0
+Unknown Client,KC Fort,Ad Hoc,22.0,0
+Unknown Client,Fabio Silvagni,CFO: Other Advisory,1.5,0
+Unknown Client,Fabio Silvagni,CFO: Other Advisory,3.0,0
+Unknown Client,Fabio Silvagni,CFO: Reporting & Review,2.0,0
+Unknown Client,Fabio Silvagni,CFO: Financial Modeling,4.0,0
+Unknown Client,James Tran,Client Team Meetings,0.5,0
+Unknown Client,James Tran,A/R Invoicing / Cash Application,0.5333333333333333,0
+Unknown Client,James Tran,Month End:  Assets,6.166666666666667,0
+Unknown Client,James Tran,Month End: Liabilities,2.6,0
+Unknown Client,James Tran,Month End: Income Statement Operating Expenses,0.7166666666666667,0
+Unknown Client,James Tran,Client Team Meetings,0.75,0
+Unknown Client,James Tran,Month End:  Assets,3.683333333333333,0
+Unknown Client,James Tran,Expense Management (Credit Card),0.5,0
+Unknown Client,James Tran,Month End: Income Statement Revenue/COGS,2.6666666666666665,0
+Unknown Client,James Tran,Month End: Liabilities,2.2666666666666666,0
+Unknown Client,James Tran,Month End:  Review (Internal) and Reporting,1.0833333333333333,0
+Unknown Client,James Tran,Month End:  Assets,0.75,0
+Unknown Client,Bernirene Ramos,Bookkeeping,0.25,0
+Unknown Client,Bernirene Ramos,Internal Admin,0.3333333333333333,0
+Unknown Client,Bernirene Ramos,Bill Pay,1.75,0
+Unknown Client,Bernirene Ramos,Client Team Meetings,0.25,0
+Unknown Client,Bernirene Ramos,Bookkeeping,1.1666666666666667,0
+Unknown Client,Bernirene Ramos,Bill Pay,0.3333333333333333,0
+Unknown Client,Bernirene Ramos,Month End:  Assets,0.25,0
+Unknown Client,Bernirene Ramos,Client Team Meetings,0.5,0
+Unknown Client,Bernirene Ramos,Bookkeeping,3.75,0
+Unknown Client,Bernirene Ramos,Bill Pay,1.5,0
+Unknown Client,Devon Ponds,Team Lead,1.5,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,2.5,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,3.75,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,2.0,0
+Unknown Client,Devon Ponds,CFO: Other Advisory,1.75,0
+Unknown Client,Laura Willoughby,Internal Trainer,0.8333333333333334,0
+Unknown Client,Tiesha Anderson,Bookkeeping,1.5,0
+Unknown Client,Tiesha Anderson,Bookkeeping,1.0,0
+Unknown Client,Tiesha Anderson,Bookkeeping,0.5666666666666667,0
+Unknown Client,Tiesha Anderson,Bookkeeping,2.9166666666666665,0
+Unknown Client,Tiesha Anderson,Bookkeeping,2.2666666666666666,0
+Unknown Client,Tiesha Anderson,Bookkeeping,4.35,0
+Unknown Client,Brenda Pearson,Bill Pay,0.5,0
+Unknown Client,Brenda Pearson,A/R Invoicing / Cash Application,1.0,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Operating Expenses,0.75,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Operating Expenses,4.5,0
+Unknown Client,Brenda Pearson,A/R Invoicing / Cash Application,1.5,0
+Unknown Client,Brenda Pearson,A/R Invoicing / Cash Application,1.5,0
+Unknown Client,Brenda Pearson,A/R Invoicing / Cash Application,0.25,0
+Unknown Client,Brenda Pearson,Cash Flow Management,1.0,0
+Unknown Client,Brenda Pearson,A/R Invoicing / Cash Application,2.25,0
+Unknown Client,Brenda Pearson,Bill Pay,3.5,0
+Unknown Client,Brenda Pearson,Bill Pay,1.5,0
+Unknown Client,Brenda Pearson,Bookkeeping,1.0,0
+Unknown Client,Brenda Pearson,Month End: Income Statement Operating Expenses,2.5,0
+Unknown Client,Brenda Pearson,A/R Invoicing / Cash Application,6.25,0
+Unknown Client,Brenda Pearson,Client Team Meetings,0.5,0
+Unknown Client,Brenda Pearson,Bill Pay,1.75,0
+Unknown Client,Brenda Pearson,Cash Flow Management,0.5,0
+Unknown Client,Brenda Pearson,Bookkeeping,0.5,0
+Unknown Client,Chris Loyd,Internal Admin,2.3333333333333335,0
+Unknown Client,Amy Morris,Month End:  Assets,1.5,0
+Unknown Client,Amy Morris,Client Onboarding,0.5,0
+Unknown Client,LaShaun Neal,Bookkeeping,7.366666666666666,0
+Unknown Client,LaShaun Neal,Bookkeeping,2.6666666666666665,0
+Unknown Client,LaShaun Neal,Bookkeeping,1.55,0
+Unknown Client,LaShaun Neal,Bookkeeping,3.05,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.5,0
+Unknown Client,LaShaun Neal,Bill Pay,0.9166666666666666,0
+Unknown Client,LaShaun Neal,Bookkeeping,2.5833333333333335,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.5,0
+Unknown Client,LaShaun Neal,Bookkeeping,0.3,0
+Unknown Client,LaShaun Neal,Bookkeeping,1.5,0
+Unknown Client,LaShaun Neal,Bill Pay,2.7666666666666666,0
+Unknown Client,Benjamin How,Month End: Review with Client,0.5,0
+Unknown Client,Benjamin How,Payroll,2.033333333333333,0
+Unknown Client,Benjamin How,Internal Admin,1.4833333333333334,0
+Unknown Client,Benjamin How,Month End: Review with Client,1.5166666666666666,0
+Unknown Client,Benjamin How,Month End:  Review (Internal) and Reporting,1.3333333333333333,0
+Unknown Client,Benjamin How,Month End: Income Statement Operating Expenses,0.4166666666666667,0
+Unknown Client,Benjamin How,Month End:  Review (Internal) and Reporting,9.416666666666666,0
+Unknown Client,Benjamin How,Ad Hoc,0.16666666666666666,0
+Unknown Client,Benjamin How,Client Team Meetings,0.7,0
+Unknown Client,Benjamin How,Bookkeeping,3.15,0
+Unknown Client,Benjamin How,Cash Flow Management,1.2,0
+Unknown Client,Benjamin How,Client Team Meetings,2.05,0
+Unknown Client,Benjamin How,Bookkeeping,1.0666666666666667,0
+Unknown Client,Benjamin How,Month End:  Assets,0.36666666666666664,0
+Unknown Client,Benjamin How,Month End:  Review (Internal) and Reporting,4.9,0
+Unknown Client,William Martens,Ad Hoc,0.5,0
+Unknown Client,William Martens,Client Team Meetings,0.6666666666666666,0
+Unknown Client,William Martens,Internal Admin,0.3333333333333333,0
+Unknown Client,William Martens,Client Team Meetings,0.3333333333333333,0
+Unknown Client,William Martens,Month End:  Review (Internal) and Reporting,0.16666666666666666,0
+Unknown Client,William Martens,Client Team Oversight & Management,0.3333333333333333,0
+Unknown Client,William Martens,Ad Hoc,1.8333333333333333,0
+Unknown Client,William Martens,Month End:  Review (Internal) and Reporting,2.0,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,4.35,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,2.7333333333333334,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,3.6333333333333333,0
+Unknown Client,Philip Cruz-Levitt,Bookkeeping,2.25,0

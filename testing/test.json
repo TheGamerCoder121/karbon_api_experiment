@@ -1,0 +1,20 @@
+{
+    "@odata.context": "https://api.karbonhq.com/v3/$metadata#Timesheets/$entity",
+    "TimesheetKey": "MwCW9CsY8WY",
+    "StartDate": "2024-10-14T00:00:00Z",
+    "EndDate": "2024-10-20T00:00:00Z",
+    "UserKey": "288RwzkVZ8ff",
+    "Status": "Draft",
+    "WorkItemKeys": [
+        "2DBvYjn8QFMH",
+        "2Q6Xk1SHzmTq",
+        "2TPyB8MdBFPr",
+        "2zdTfYJxrBmG",
+        "34D23cCRx1ds",
+        "3YNlkmbp6tMk",
+        "4wp5zMPV4jZ1",
+        "5FVHG3gwx1z",
+        "CVYpMh2HwNq",
+        "nT2D6RkyYyX"
+    ]
+}

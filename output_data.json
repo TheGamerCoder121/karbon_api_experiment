@@ -1,0 +1,6988 @@
+[
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 2.4166666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 3.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 2.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 13.666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 4.583333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 2.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 3.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 4.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 5.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 5.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 4.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 6.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 3.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 6.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 2.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 3.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 6.033333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 9.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 3.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.566666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 6.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 5.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Equity",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Client Team Oversight & Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Equity",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 3.4166666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "ERP Implementation",
+        "Actual Hours": 11.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.5833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.6666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 4.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 2.4166666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 8.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 4.783333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 8.1,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.0166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 6.266666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.9333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 2.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.43333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 2.0166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Payroll",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 5.266666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 7.333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.1,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Client Onboarding",
+        "Actual Hours": 0.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Internal Admin",
+        "Actual Hours": 3.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Payroll",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.9,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Internal Trainer",
+        "Actual Hours": 2.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 2.6,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.6,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Payroll",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.1,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Bill Pay",
+        "Actual Hours": 10.6,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Internal Admin",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Ad Hoc",
+        "Actual Hours": 9.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Internal Admin",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 9.583333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 10.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 1.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Treasury Management",
+        "Actual Hours": 5.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Courtney Hale",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Courtney Hale",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Courtney Hale",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Theresa Owens",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 13.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 5.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "Internal Trainer",
+        "Actual Hours": 3.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 5.333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Ad Hoc",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Oversight & Management",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 5.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Team Lead",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.1166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Ad Hoc",
+        "Actual Hours": 13.65,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 3.033333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 2.1333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 0.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.45,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.31666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.3833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.13333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.8833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.9666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Sales Tax",
+        "Actual Hours": 0.2833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.9,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.7166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.7833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.18333333333333332,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Payroll",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.6333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Onboarding",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.5833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Fundraising/M&A",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 3.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Onboarding",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.85,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.8666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bill Pay",
+        "Actual Hours": 5.4,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Sales Tax",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Sales Tax",
+        "Actual Hours": 3.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.8166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Ad Hoc",
+        "Actual Hours": 8.616666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bookkeeping",
+        "Actual Hours": 8.966666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.38333333333333336,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Sales Tax",
+        "Actual Hours": 2.3833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Bill Pay",
+        "Actual Hours": 8.583333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 15.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.43333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.7666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Month End: Equity",
+        "Actual Hours": 11.683333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 6.466666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bill Pay",
+        "Actual Hours": 6.216666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.466666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 4.233333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Payroll",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 3.1666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 3.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 11.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Ad Hoc",
+        "Actual Hours": 5.083333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Payroll",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.08333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.6166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.26666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Internal Admin",
+        "Actual Hours": 5.633333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.08333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.26666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.716666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.0833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.5833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Bill Pay",
+        "Actual Hours": 4.916666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 5.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Bookkeeping",
+        "Actual Hours": 8.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 4.45,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.45,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.5333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.35,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.6166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.85,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.1333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 3.316666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.55,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.7833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.9666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.8833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.55,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.2833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.1,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.48333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.7833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.95,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.95,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Payroll",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Sales Tax",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Ad Hoc",
+        "Actual Hours": 3.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Payroll",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 2.0833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.3333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 2.0833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 3.5833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 4.083333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 7.166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.6666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.08333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Bookkeeping",
+        "Actual Hours": 10.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin Soto",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "KC Fort",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "KC Fort",
+        "Task": "Ad Hoc",
+        "Actual Hours": 9.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "KC Fort",
+        "Task": "Ad Hoc",
+        "Actual Hours": 28.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "KC Fort",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "Team Lead",
+        "Actual Hours": 4.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 4.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Fundraising/M&A",
+        "Actual Hours": 7.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Treasury Management",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Fundraising/M&A",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 9.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 3.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 7.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 3.05,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.18333333333333332,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 4.966666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 3.3333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 7.666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.3833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Payroll",
+        "Actual Hours": 0.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.583333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 4.333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "Team Lead",
+        "Actual Hours": 8.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 8.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 4.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 6.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Laura Willoughby",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.65,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Laura Willoughby",
+        "Task": "Team Lead",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.9333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.6333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 7.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 9.916666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Sick",
+        "Actual Hours": 9.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 3.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 4.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Chris Loyd",
+        "Task": "Internal Admin",
+        "Actual Hours": 16.583333333333332,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Client Onboarding",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.3333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bill Pay",
+        "Actual Hours": 11.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.05,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.4666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.38333333333333336,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 12.616666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.6333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.5333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.7666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Internal Transition",
+        "Actual Hours": 1.6666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Payroll",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.4,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.6333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.7333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 3.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.183333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Non Billable",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Oversight & Management",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Ad Hoc",
+        "Actual Hours": 4.083333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 2.1666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 5.35,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.05,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Client Team Oversight & Management",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 7.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 5.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Jacob Lazzell",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 9.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Daniel Johnson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 21.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 8.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Zac Simons",
+        "Task": "Ad Hoc",
+        "Actual Hours": 7.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.65,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 4.133333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 4.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tanner Meeks",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.8833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "Internal Admin",
+        "Actual Hours": 4.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 5.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brian Prehn",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Adam Casto",
+        "Task": "Client Non Billable",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.8333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 3.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Equity",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 4.083333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "ERP Implementation",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elsa Reyes",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Client Team Oversight & Management",
+        "Actual Hours": 1.5833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 7.833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 5.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Internal Trainer",
+        "Actual Hours": 2.2666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Eleanor Dotson",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.43333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 3.0833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 8.566666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Elizabeth Barber",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sarah Edwards",
+        "Task": "Internal Admin",
+        "Actual Hours": 16.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.4,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.8,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Payroll",
+        "Actual Hours": 0.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Payroll",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Sandy Jones",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 5.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Ad Hoc",
+        "Actual Hours": 4.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Sales Tax",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Monica Pintado",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Treasury Management",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 9.166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Fundraising/M&A",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.1666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "CFO: Fundraising/M&A",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Heidi Huntington",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 11.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Justin VanAntwerp",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 3.4166666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 7.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 3.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Andi Dencklau",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.11666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.8833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.9833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.95,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.7333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.65,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.85,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 3.433333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.9666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 2.533333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.5333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.5666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 0.35,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.11666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 0.8666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.21666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.7833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.2666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.38333333333333336,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Inventory Implementation",
+        "Actual Hours": 0.9833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.6,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Paige Williams",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Onboarding",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 3.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Lu Yan",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 3.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.2333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 3.3833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bill Pay",
+        "Actual Hours": 3.1333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Payroll",
+        "Actual Hours": 2.3666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.05,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Olivia Wang",
+        "Task": "Sales Tax",
+        "Actual Hours": 6.416666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Bookkeeping",
+        "Actual Hours": 5.883333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Bill Pay",
+        "Actual Hours": 9.316666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.3333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Month End: Equity",
+        "Actual Hours": 2.566666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 9.633333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tina Schenk",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 3.433333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Sales Tax",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Emily Sellers",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.6666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bill Pay",
+        "Actual Hours": 7.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.0833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bill Pay",
+        "Actual Hours": 4.333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Isaac Carranza",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 6.916666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 7.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 1.5833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nadia Marafioti",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.7166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Internal Admin",
+        "Actual Hours": 23.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.2833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.36666666666666664,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Nicklaus Vega",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.9166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Travis Neves",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.9333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.08333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.6333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 3.816666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.55,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.6166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.36666666666666664,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.4833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Helen Homan",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.183333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.8166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.1166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Ad Hoc",
+        "Actual Hours": 2.0833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.4,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Patricia DeSoi",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.0333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Internal Trainer",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 1.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Ad Hoc",
+        "Actual Hours": 3.4166666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Kimberly Maier",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.6666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 3.4166666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 2.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Rodney Moore",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "KC Fort",
+        "Task": "Ad Hoc",
+        "Actual Hours": 5.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "KC Fort",
+        "Task": "Ad Hoc",
+        "Actual Hours": 22.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 3.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Reporting & Review",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Fabio Silvagni",
+        "Task": "CFO: Financial Modeling",
+        "Actual Hours": 4.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.5333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 6.166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 2.6,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.7166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 3.683333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Expense Management (Credit Card)",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Income Statement Revenue/COGS",
+        "Actual Hours": 2.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End: Liabilities",
+        "Actual Hours": 2.2666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.0833333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "James Tran",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.1666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Bernirene Ramos",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "Team Lead",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 3.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Devon Ponds",
+        "Task": "CFO: Other Advisory",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Laura Willoughby",
+        "Task": "Internal Trainer",
+        "Actual Hours": 0.8333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.5666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.9166666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.2666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Tiesha Anderson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.35,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 4.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 0.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 3.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 2.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "A/R Invoicing / Cash Application",
+        "Actual Hours": 6.25,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bill Pay",
+        "Actual Hours": 1.75,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Brenda Pearson",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Chris Loyd",
+        "Task": "Internal Admin",
+        "Actual Hours": 2.3333333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Amy Morris",
+        "Task": "Client Onboarding",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 7.366666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.6666666666666665,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.55,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.05,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bill Pay",
+        "Actual Hours": 0.9166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.5833333333333335,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 0.3,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "LaShaun Neal",
+        "Task": "Bill Pay",
+        "Actual Hours": 2.7666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Payroll",
+        "Actual Hours": 2.033333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Internal Admin",
+        "Actual Hours": 1.4833333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End: Review with Client",
+        "Actual Hours": 1.5166666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 1.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End: Income Statement Operating Expenses",
+        "Actual Hours": 0.4166666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 9.416666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.7,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.15,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Cash Flow Management",
+        "Actual Hours": 1.2,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 2.05,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Bookkeeping",
+        "Actual Hours": 1.0666666666666667,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Assets",
+        "Actual Hours": 0.36666666666666664,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Benjamin How",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 4.9,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Ad Hoc",
+        "Actual Hours": 0.5,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.6666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Internal Admin",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Meetings",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 0.16666666666666666,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Client Team Oversight & Management",
+        "Actual Hours": 0.3333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Ad Hoc",
+        "Actual Hours": 1.8333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "William Martens",
+        "Task": "Month End:  Review (Internal) and Reporting",
+        "Actual Hours": 2.0,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 4.35,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.7333333333333334,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 3.6333333333333333,
+        "Budgeted Hours": 0
+    },
+    {
+        "Client": "Unknown Client",
+        "Worker": "Philip Cruz-Levitt",
+        "Task": "Bookkeeping",
+        "Actual Hours": 2.25,
+        "Budgeted Hours": 0
+    }
+]
