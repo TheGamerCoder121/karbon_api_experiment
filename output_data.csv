@@ -1,1003 +1,419 @@
-Client,Worker,Task,Actual Hours,Budgeted Hours,Estimate Actual Hours
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.8333333333333334,25.0,23.916666666666664
-Unknown Client,Unknown Worker,Month End:  Assets,1.0,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.4166666666666665,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End: Liabilities,3.0,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,2.8333333333333335,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.8333333333333333,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.9166666666666667,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Internal Admin,0.3333333333333333,0.0,1.5833333333333333
-Unknown Client,Unknown Worker,Month End: Liabilities,13.666666666666666,16.5,47.91666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,0.0,1.2
-Unknown Client,Unknown Worker,Bookkeeping,0.3333333333333333,12.0,11.666666666666668
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,4.583333333333333,18.0,9.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,1.5,0.75
-Unknown Client,Unknown Worker,Ad Hoc,1.0,2.0,1.0
-Unknown Client,Unknown Worker,Inventory Implementation,2.8333333333333335,0.0,18.516666666666666
-Unknown Client,Unknown Worker,Month End: Liabilities,2.0,10.5,2.0
-Unknown Client,Unknown Worker,Bookkeeping,0.25,2.75,5.25
-Unknown Client,Unknown Worker,Bill Pay,0.5,9.0,3.5
-Unknown Client,Unknown Worker,Ad Hoc,0.25,0.0,1.6333333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,4.0,4.75
-Unknown Client,Unknown Worker,Month End:  Assets,2.75,40.0,28.5
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,3.25,40.0,28.5
-Unknown Client,Unknown Worker,Month End: Liabilities,2.5,40.0,28.5
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,4.5,40.0,28.5
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.25,40.0,28.5
-Unknown Client,Unknown Worker,Bill Pay,0.75,8.0,1.5833333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,4.0,23.0,30.75
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,23.0,30.75
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,23.0,30.75
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,0.0,15.0
-Unknown Client,Unknown Worker,Month End:  Assets,1.5,2.0,13.45
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,2.0,13.45
-Unknown Client,Unknown Worker,Ad Hoc,5.5,7.0,8.25
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,1.0,4.5
-Unknown Client,Unknown Worker,Ad Hoc,5.75,0.0,48.35
-Unknown Client,Unknown Worker,Bill Pay,0.5,3.5,1.5833333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,2.5,0.5
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,4.5,15.5,18.75
-Unknown Client,Unknown Worker,Month End:  Assets,3.5,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End: Liabilities,6.5,36.75,29.583333333333332
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.0,31.0,3.25
-Unknown Client,Unknown Worker,Month End:  Assets,3.0,40.0,28.5
-Unknown Client,Unknown Worker,Month End: Liabilities,6.0,40.0,28.5
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5,40.0,28.5
-Unknown Client,Unknown Worker,Internal Admin,1.0,0.0,1.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,0.0,0.5
-Unknown Client,Unknown Worker,Bookkeeping,1.5,12.0,11.666666666666668
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,8.0,1.5
-Unknown Client,Unknown Worker,Month End:  Assets,2.5,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Month End: Liabilities,1.5,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Bookkeeping,2.5,2.75,5.25
-Unknown Client,Unknown Worker,Bookkeeping,1.5,2.0,1.5
-Unknown Client,Unknown Worker,Month End:  Assets,2.5,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Internal Admin,0.5,0.0,0.5
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.8333333333333335,18.5,33.4
-Unknown Client,Unknown Worker,Month End:  Assets,3.6666666666666665,18.5,8.05
-Unknown Client,Unknown Worker,Ad Hoc,1.5,1.75,1.5
-Unknown Client,Unknown Worker,Ad Hoc,0.8,40.0,16.1
-Unknown Client,Unknown Worker,Ad Hoc,0.25,1.0,0.25
-Unknown Client,Unknown Worker,Ad Hoc,1.75,31.0,6.35
-Unknown Client,Unknown Worker,Ad Hoc,6.033333333333333,6.0,6.75
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.1666666666666667,34.7,27.550000000000004
-Unknown Client,Unknown Worker,Ad Hoc,9.3,9.0,22.3
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,3.6666666666666665,9.0,22.3
-Unknown Client,Unknown Worker,Ad Hoc,2.566666666666667,0.0,13.333333333333334
-Unknown Client,Unknown Worker,Ad Hoc,1.0,2.0,1.0
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,6.0,10.0,6.0
-Unknown Client,Unknown Worker,Month End: Review with Client,1.0,8.0,1.0
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,3.5,16.0,14.116666666666667
-Unknown Client,Unknown Worker,CFO: Reporting & Review,4.0,20.0,10.75
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.5,0.0,16.3
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.25,0.0,1.25
-Unknown Client,Unknown Worker,CFO: Financial Modeling,4.0,7.0,9.25
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.75,12.0,18.916666666666664
-Unknown Client,Unknown Worker,Client Team Meetings,2.0,12.0,18.916666666666664
-Unknown Client,Unknown Worker,Ad Hoc,1.0,1.0,1.5
-Unknown Client,Unknown Worker,CFO: Other Advisory,1.75,8.0,4.25
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.0,1.0,2.0
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,0.0,4.7
-Unknown Client,Unknown Worker,Client Team Meetings,2.0,0.0,9.0
-Unknown Client,Unknown Worker,CFO: Financial Modeling,5.0,0.0,9.0
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.5,0.0,6.5
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,0.0,6.5
-Unknown Client,Unknown Worker,Cash Flow Management,1.0,0.0,6.5
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,44.0,4.0
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.0,0.0,29.0
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.5,0.0,29.0
-Unknown Client,Unknown Worker,Client Team Meetings,1.8333333333333333,0.0,29.0
-Unknown Client,Unknown Worker,CFO: Financial Modeling,2.0,0.0,29.0
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.5,0.0,29.0
-Unknown Client,Unknown Worker,CFO: Financial Modeling,0.3333333333333333,0.0,0.8333333333333334
-Unknown Client,Unknown Worker,Month End: Equity,1.5,19.533333333333335,7.316666666666666
-Unknown Client,Unknown Worker,Month End:  Assets,1.5,19.533333333333335,7.316666666666666
-Unknown Client,Unknown Worker,Month End: Liabilities,1.0,19.533333333333335,7.316666666666666
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.3333333333333333,19.533333333333335,7.316666666666666
-Unknown Client,Unknown Worker,Client Team Oversight & Management,1.0,44.0,27.616666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,44.0,27.616666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,44.0,27.616666666666667
-Unknown Client,Unknown Worker,Internal Admin,0.25,0.0,0.75
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.3333333333333333,1.0,0.3333333333333333
-Unknown Client,Unknown Worker,Month End: Equity,0.75,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End:  Assets,2.75,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,3.5,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End: Review with Client,0.5,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,3.4166666666666665,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.75,47.0,43.66666666666666
-Unknown Client,Unknown Worker,ERP Implementation,11.0,102.0,44.18333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,72.0,36.75
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.5833333333333333,3.0,1.5833333333333333
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.6666666666666667,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Cash Flow Management,4.25,2.0,5.333333333333333
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,2.4166666666666665,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Ad Hoc,8.0,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Inventory Implementation,4.783333333333333,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Ad Hoc,8.1,1.0,8.1
-Unknown Client,Unknown Worker,Cash Flow Management,3.5,2.0,3.8166666666666664
-Unknown Client,Unknown Worker,Cash Flow Management,3.5,2.0,3.75
-Unknown Client,Unknown Worker,Ad Hoc,0.4166666666666667,1.5,1.6666666666666667
-Unknown Client,Unknown Worker,Internal Trainer,1.0166666666666666,37.0,26.099999999999998
-Unknown Client,Unknown Worker,Cash Flow Management,2.5,2.0,2.5
-Unknown Client,Unknown Worker,Internal Admin,0.75,0.0,2.0
-Unknown Client,Unknown Worker,Cash Flow Management,1.25,1.0,1.25
-Unknown Client,Unknown Worker,Bill Pay,0.16666666666666666,1.5,0.9166666666666666
-Unknown Client,Unknown Worker,Month End: Review with Client,0.6666666666666666,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,6.266666666666667,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,1.9333333333333333,4.0,7.85
-Unknown Client,Unknown Worker,Cash Flow Management,2.8,4.0,11.333333333333334
-Unknown Client,Unknown Worker,Internal Admin,0.3333333333333333,0.0,0.3333333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,1.0833333333333333,2.0,5.816666666666666
-Unknown Client,Unknown Worker,Month End:  Assets,0.43333333333333335,13.25,37.95
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.9166666666666667,13.25,37.95
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.0166666666666666,13.25,37.95
-Unknown Client,Unknown Worker,Payroll,0.16666666666666666,1.0,0.16666666666666666
-Unknown Client,Unknown Worker,Ad Hoc,1.9166666666666667,6.0,6.783333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,6.0,6.783333333333334
-Unknown Client,Unknown Worker,Cash Flow Management,5.266666666666667,4.0,5.266666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,7.333333333333333,0.0,13.333333333333334
-Unknown Client,Unknown Worker,Ad Hoc,2.1,31.0,25.95
-Unknown Client,Unknown Worker,Ad Hoc,2.3,0.0,8.266666666666667
-Unknown Client,Unknown Worker,Client Onboarding,0.2,0.0,8.266666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,0.0,8.266666666666667
-Unknown Client,Unknown Worker,Internal Admin,3.0,0.0,4.4
-Unknown Client,Unknown Worker,Month End:  Assets,0.7,43.0,7.916666666666667
-Unknown Client,Unknown Worker,Payroll,0.3,0.5,0.3
-Unknown Client,Unknown Worker,Bill Pay,0.9,10.0,11.85
-Unknown Client,Unknown Worker,Internal Admin,0.3,0.0,3.0999999999999996
-Unknown Client,Unknown Worker,Internal Trainer,2.8,0.0,3.0999999999999996
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,2.6,15.5,2.6
-Unknown Client,Unknown Worker,Ad Hoc,0.6,31.0,6.35
-Unknown Client,Unknown Worker,Ad Hoc,3.5,3.5,3.5
-Unknown Client,Unknown Worker,Payroll,2.0,3.5,5.066666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.2,0.0,7.866666666666667
-Unknown Client,Unknown Worker,Month End:  Assets,2.1,13.0,9.25
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.3,13.0,9.25
-Unknown Client,Unknown Worker,Bill Pay,10.6,19.0,20.9
-Unknown Client,Unknown Worker,Ad Hoc,2.7,0.0,9.866666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.25,0.0,0.25
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.75,4.0,4.75
-Unknown Client,Unknown Worker,Ad Hoc,0.75,0.0,1.6833333333333333
-Unknown Client,Unknown Worker,Internal Admin,2.25,0.0,2.25
-Unknown Client,Unknown Worker,Bill Pay,1.25,23.0,30.75
-Unknown Client,Unknown Worker,Ad Hoc,9.75,0.0,15.0
-Unknown Client,Unknown Worker,Internal Admin,2.75,0.0,8.416666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,1.5,6.0,1.5
-Unknown Client,Unknown Worker,Client Team Meetings,9.583333333333334,47.0,43.583333333333336
-Unknown Client,Unknown Worker,CFO: Other Advisory,1.25,21.0,3.166666666666667
-Unknown Client,Unknown Worker,Internal Admin,0.8333333333333334,37.0,26.099999999999998
-Unknown Client,Unknown Worker,Internal Trainer,1.0,37.0,26.099999999999998
-Unknown Client,Unknown Worker,CFO: Other Advisory,10.25,76.0,36.583333333333336
-Unknown Client,Unknown Worker,CFO: Financial Modeling,1.4166666666666667,76.0,36.583333333333336
-Unknown Client,Unknown Worker,CFO: Treasury Management,5.5,76.0,36.583333333333336
-Unknown Client,Unknown Worker,Internal Admin,0.5,0.0,0.5
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.25,0.0,0.25
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.5,0.0,0.5
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.0,0.0,5.416666666666666
-Unknown Client,Unknown Worker,CFO: Other Advisory,1.25,2.0,1.25
-Unknown Client,Unknown Worker,CFO: Other Advisory,13.25,0.0,38.5
-Unknown Client,Unknown Worker,CFO: Reporting & Review,2.75,0.0,38.5
-Unknown Client,Unknown Worker,CFO: Financial Modeling,3.5,0.0,38.5
-Unknown Client,Unknown Worker,Cash Flow Management,3.5,0.0,38.5
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,0.0,0.5
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,0.0,3.0
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.5,0.0,8.25
-Unknown Client,Unknown Worker,CFO: Financial Modeling,5.75,0.0,8.25
-Unknown Client,Unknown Worker,Internal Trainer,3.0,37.0,26.099999999999998
-Unknown Client,Unknown Worker,CFO: Other Advisory,1.0,0.0,7.833333333333334
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,0.0,13.333333333333334
-Unknown Client,Unknown Worker,Internal Admin,0.5,0.0,2.0
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,3.0,1.5
-Unknown Client,Unknown Worker,Client Team Meetings,4.0,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,8.0,8.266666666666666
-Unknown Client,Unknown Worker,Ad Hoc,1.0,10.0,1.5833333333333335
-Unknown Client,Unknown Worker,Cash Flow Management,1.0,1.75,3.0
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,22.25,13.833333333333334
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.0,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,5.333333333333333,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Ad Hoc,3.5,0.0,31.833333333333332
-Unknown Client,Unknown Worker,Internal Admin,1.3333333333333333,0.0,1.3333333333333333
-Unknown Client,Unknown Worker,Ad Hoc,0.5,0.0,4.033333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,0.0,4.033333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,3.5,72.0,36.75
-Unknown Client,Unknown Worker,Client Team Oversight & Management,2.0,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,5.0,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Team Lead,0.25,0.8333333333333334,0.25
-Unknown Client,Unknown Worker,Internal Trainer,0.5,37.0,26.099999999999998
-Unknown Client,Unknown Worker,Ad Hoc,1.0,0.0,7.833333333333334
-Unknown Client,Unknown Worker,Ad Hoc,1.5,6.0,18.166666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,6.0,18.166666666666668
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.25,0,0
-Unknown Client,Unknown Worker,Cash Flow Management,1.0833333333333333,2.0,5.333333333333333
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.1166666666666667,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Ad Hoc,13.65,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,1.1666666666666667,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.0,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Month End: Liabilities,3.033333333333333,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.0833333333333333,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.1333333333333333,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Inventory Implementation,0.7,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Client Team Meetings,0.2,18.5,8.05
-Unknown Client,Unknown Worker,Bill Pay,0.45,2.75,11.333333333333332
-Unknown Client,Unknown Worker,Cash Flow Management,0.31666666666666665,2.0,3.8166666666666664
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,12.0,6.35
-Unknown Client,Unknown Worker,Cash Flow Management,1.3833333333333333,12.0,6.35
-Unknown Client,Unknown Worker,Inventory Implementation,0.3,6.0,6.916666666666666
-Unknown Client,Unknown Worker,Internal Admin,0.6666666666666666,0.0,1.4166666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,2.0,3.75
-Unknown Client,Unknown Worker,Ad Hoc,0.13333333333333333,0.0,4.733333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,1.1666666666666667,0.0,4.733333333333333
-Unknown Client,Unknown Worker,Cash Flow Management,0.8833333333333333,0.0,4.733333333333333
-Unknown Client,Unknown Worker,Ad Hoc,1.0333333333333334,0.0,16.3
-Unknown Client,Unknown Worker,Bill Pay,0.25,3.5,0.25
-Unknown Client,Unknown Worker,Cash Flow Management,0.9666666666666667,2.0,0.9666666666666667
-Unknown Client,Unknown Worker,Sales Tax,0.2833333333333333,6.0,3.1
-Unknown Client,Unknown Worker,Client Team Meetings,0.9,6.0,3.1
-Unknown Client,Unknown Worker,Client Team Meetings,0.7166666666666667,6.0,6.75
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.7833333333333333,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Cash Flow Management,0.18333333333333332,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Payroll,0.25,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Bill Pay,0.25,0.0,0.25
-Unknown Client,Unknown Worker,Bookkeeping,0.6333333333333333,6.0,0.6333333333333333
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.1666666666666667,11.0,1.1666666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,3.5,2.75
-Unknown Client,Unknown Worker,Client Onboarding,0.75,0.0,2.25
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.3333333333333333,7.0,1.3333333333333333
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.5833333333333334,2.0,6.250000000000001
-Unknown Client,Unknown Worker,Client Team Meetings,1.75,2.0,6.250000000000001
-Unknown Client,Unknown Worker,Cash Flow Management,0.25,2.0,6.250000000000001
-Unknown Client,Unknown Worker,Cash Flow Management,0.25,1.5,4.5
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.5833333333333333,11.0,8.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,11.0,8.75
-Unknown Client,Unknown Worker,CFO: Fundraising/M&A,0.5833333333333334,12.0,1.8333333333333335
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.25,12.0,1.8333333333333335
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,7.0,0.75
-Unknown Client,Unknown Worker,Ad Hoc,0.3333333333333333,0.0,9.866666666666667
-Unknown Client,Unknown Worker,CFO: Reporting & Review,3.6666666666666665,0.0,9.866666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.8333333333333334,0.0,9.866666666666667
-Unknown Client,Unknown Worker,Client Onboarding,1.5,0.5,17.25
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,0.5,17.25
-Unknown Client,Unknown Worker,Client Team Meetings,0.8333333333333334,0.5,17.25
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,3.0,10.166666666666668
-Unknown Client,Unknown Worker,Month End:  Assets,1.25,25.0,41.11666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,1.85,25.0,41.11666666666667
-Unknown Client,Unknown Worker,Bookkeeping,1.8666666666666667,2.0,1.8666666666666667
-Unknown Client,Unknown Worker,Bookkeeping,2.0,0.0,11.566666666666666
-Unknown Client,Unknown Worker,Bill Pay,5.4,6.0,5.4
-Unknown Client,Unknown Worker,Sales Tax,0.25,2.0,10.266666666666667
-Unknown Client,Unknown Worker,Sales Tax,3.25,2.0,3.25
-Unknown Client,Unknown Worker,Bill Pay,1.8166666666666667,23.5,15.233333333333333
-Unknown Client,Unknown Worker,Ad Hoc,8.616666666666667,23.5,15.233333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,23.5,15.233333333333333
-Unknown Client,Unknown Worker,Bookkeeping,8.966666666666667,0.0,8.966666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.38333333333333336,19.0,20.9
-Unknown Client,Unknown Worker,Internal Admin,0.6666666666666666,0.0,1.1666666666666667
-Unknown Client,Unknown Worker,Sales Tax,2.3833333333333333,0.0,8.8
-Unknown Client,Unknown Worker,Client Team Meetings,0.3,0.5,0.3
-Unknown Client,Unknown Worker,Bill Pay,8.583333333333334,8.0,8.583333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,15.3,25.0,41.11666666666667
-Unknown Client,Unknown Worker,Ad Hoc,0.43333333333333335,16.0,0.43333333333333335
-Unknown Client,Unknown Worker,Bookkeeping,0.7666666666666667,8.0,0.7666666666666667
-Unknown Client,Unknown Worker,Internal Admin,0.3333333333333333,0.0,0.3333333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,23.5,15.233333333333333
-Unknown Client,Unknown Worker,Month End: Equity,11.683333333333334,66.0,46.31666666666666
-Unknown Client,Unknown Worker,Ad Hoc,1.75,0.0,3.0
-Unknown Client,Unknown Worker,Ad Hoc,0.9166666666666666,0.0,5.416666666666666
-Unknown Client,Unknown Worker,Cash Flow Management,1.3333333333333333,0.0,5.416666666666666
-Unknown Client,Unknown Worker,Internal Admin,0.2,0.0,0.2
-Unknown Client,Unknown Worker,Bookkeeping,6.466666666666667,10.0,19.466666666666665
-Unknown Client,Unknown Worker,Bill Pay,6.216666666666667,2.75,11.333333333333332
-Unknown Client,Unknown Worker,Bookkeeping,4.666666666666667,2.75,11.333333333333332
-Unknown Client,Unknown Worker,Bookkeeping,4.466666666666667,12.0,6.35
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,4.233333333333333,6.0,12.566666666666666
-Unknown Client,Unknown Worker,Bookkeeping,1.9166666666666667,6.0,3.1
-Unknown Client,Unknown Worker,Bookkeeping,4.2,6.0,6.783333333333334
-Unknown Client,Unknown Worker,Bill Pay,1.1666666666666667,1.0,5.25
-Unknown Client,Unknown Worker,Month End:  Assets,1.0,3.0,1.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,8.0,8.266666666666666
-Unknown Client,Unknown Worker,Payroll,0.3333333333333333,0.0,0.3333333333333333
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.5,1.0,9.0
-Unknown Client,Unknown Worker,Bill Pay,1.5,1.0,9.0
-Unknown Client,Unknown Worker,Inventory Implementation,0.75,1.0,9.0
-Unknown Client,Unknown Worker,Month End: Liabilities,0.3333333333333333,34.7,2.083333333333333
-Unknown Client,Unknown Worker,Month End: Liabilities,1.0,10.75,3.666666666666667
-Unknown Client,Unknown Worker,Bill Pay,1.0,0.5,1.0
-Unknown Client,Unknown Worker,Ad Hoc,1.1666666666666667,15.0,1.1666666666666667
-Unknown Client,Unknown Worker,Bill Pay,1.4166666666666667,1.75,4.166666666666667
-Unknown Client,Unknown Worker,Month End:  Assets,0.5833333333333334,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End: Liabilities,1.25,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,0.9166666666666666,31.0,11.916666666666666
-Unknown Client,Unknown Worker,Month End: Liabilities,1.0833333333333333,31.0,11.916666666666666
-Unknown Client,Unknown Worker,Month End:  Assets,3.1666666666666665,34.7,27.550000000000004
-Unknown Client,Unknown Worker,Month End: Liabilities,3.6666666666666665,34.7,27.550000000000004
-Unknown Client,Unknown Worker,Client Team Meetings,2.75,9.0,22.3
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,11.0,2.0,11.0
-Unknown Client,Unknown Worker,Ad Hoc,5.083333333333333,6.0,18.166666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,1.25,6.0,18.166666666666668
-Unknown Client,Unknown Worker,Inventory Implementation,1.0,6.0,18.166666666666668
-Unknown Client,Unknown Worker,Payroll,0.5,1.0,0.5
-Unknown Client,Unknown Worker,Bill Pay,0.08333333333333333,8.0,1.5833333333333333
-Unknown Client,Unknown Worker,Month End: Liabilities,1.6166666666666667,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Bookkeeping,0.26666666666666666,2.0,0.26666666666666666
-Unknown Client,Unknown Worker,Internal Admin,5.633333333333334,0.0,29.883333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,0.08333333333333333,2.0,13.45
-Unknown Client,Unknown Worker,Bookkeeping,0.26666666666666666,43.0,12.683333333333334
-Unknown Client,Unknown Worker,Bill Pay,2.716666666666667,2.5,2.716666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,31.0,25.95
-Unknown Client,Unknown Worker,Ad Hoc,2.0833333333333335,0.0,8.266666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,1.5833333333333333,0.0,8.266666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,0.8333333333333334,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.5,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Internal Admin,1.25,0.0,3.6666666666666665
-Unknown Client,Unknown Worker,Bill Pay,4.916666666666667,10.0,11.85
-Unknown Client,Unknown Worker,Bookkeeping,1.0,0.75,1.8333333333333333
-Unknown Client,Unknown Worker,Ad Hoc,0.6666666666666666,13.0,3.0
-Unknown Client,Unknown Worker,Bill Pay,0.5,1.25,1.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,0.0,7.866666666666667
-Unknown Client,Unknown Worker,Bookkeeping,1.8333333333333333,0.5,1.8333333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,5.25,13.0,9.25
-Unknown Client,Unknown Worker,Bookkeeping,8.0,43.0,12.683333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,1.5,1.1666666666666667
-Unknown Client,Unknown Worker,Bill Pay,4.45,2.25,4.45
-Unknown Client,Unknown Worker,Bill Pay,0.6666666666666666,1.0,0.6666666666666666
-Unknown Client,Unknown Worker,Bill Pay,1.45,19.533333333333335,7.316666666666666
-Unknown Client,Unknown Worker,Month End: Liabilities,1.5333333333333334,1.75,2.033333333333333
-Unknown Client,Unknown Worker,Bill Pay,2.35,1.75,2.35
-Unknown Client,Unknown Worker,Bill Pay,0.6166666666666667,1.25,0.6166666666666667
-Unknown Client,Unknown Worker,Bill Pay,1.85,16.0,14.116666666666667
-Unknown Client,Unknown Worker,Bill Pay,1.1333333333333333,1.75,1.9666666666666668
-Unknown Client,Unknown Worker,Bill Pay,3.316666666666667,2.0,3.316666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.55,1.75,0.55
-Unknown Client,Unknown Worker,Bill Pay,0.7833333333333333,6.0,2.2666666666666666
-Unknown Client,Unknown Worker,Internal Admin,0.9666666666666667,0.0,0.9666666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.8833333333333333,1.75,1.1333333333333333
-Unknown Client,Unknown Worker,Bill Pay,1.55,2.25,1.55
-Unknown Client,Unknown Worker,Internal Admin,0.2833333333333333,0.0,0.2833333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,0.5,10.0,4.283333333333333
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.1,10.0,4.283333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.75,12.25,10.766666666666667
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.48333333333333334,12.25,10.766666666666667
-Unknown Client,Unknown Worker,Month End:  Assets,0.7833333333333333,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.4166666666666667,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,0.95,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.3,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Ad Hoc,0.95,0.0,0.95
-Unknown Client,Unknown Worker,Cash Flow Management,0.25,0.5,0.25
-Unknown Client,Unknown Worker,Payroll,0.3333333333333333,0.5,0.3333333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,1.1666666666666667,13.5,7.916666666666667
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,13.5,7.916666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.16666666666666666,13.5,7.916666666666667
-Unknown Client,Unknown Worker,Sales Tax,0.3333333333333333,0.25,0.3333333333333333
-Unknown Client,Unknown Worker,Ad Hoc,1.0,2.0,1.0
-Unknown Client,Unknown Worker,Cash Flow Management,0.5,0.5,0.5
-Unknown Client,Unknown Worker,Bill Pay,0.8333333333333334,2.0,1.3333333333333335
-Unknown Client,Unknown Worker,Bill Pay,0.5,1.75,2.033333333333333
-Unknown Client,Unknown Worker,Bookkeeping,3.5,5.0,4.916666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.75,8.25,4.416666666666667
-Unknown Client,Unknown Worker,Ad Hoc,3.25,8.25,4.416666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.4166666666666667,8.25,4.416666666666667
-Unknown Client,Unknown Worker,Bookkeeping,0.3333333333333333,0.75,1.8333333333333333
-Unknown Client,Unknown Worker,Ad Hoc,0.6666666666666666,2.0,6.250000000000001
-Unknown Client,Unknown Worker,Cash Flow Management,1.0,1.5,4.5
-Unknown Client,Unknown Worker,Bill Pay,0.8333333333333334,1.75,1.9666666666666668
-Unknown Client,Unknown Worker,Cash Flow Management,0.3333333333333333,0.5,0.3333333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,1.75,17.0,9.366666666666665
-Unknown Client,Unknown Worker,Bill Pay,0.5,1.25,1.0
-Unknown Client,Unknown Worker,Month End:  Assets,1.25,11.0,4.5
-Unknown Client,Unknown Worker,Month End: Liabilities,1.4166666666666667,11.0,4.5
-Unknown Client,Unknown Worker,Payroll,0.5833333333333334,1.0,0.5833333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,1.5,0.75
-Unknown Client,Unknown Worker,Internal Admin,0.3333333333333333,0.0,0.8333333333333334
-Unknown Client,Unknown Worker,Bill Pay,0.25,1.75,1.1333333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,0.75,5.0,4.75
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.3333333333333333,5.0,4.75
-Unknown Client,Unknown Worker,Month End: Liabilities,2.0833333333333335,5.0,4.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,1.5,1.1666666666666667
-Unknown Client,Unknown Worker,Ad Hoc,1.0,0.0,50.733333333333334
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.75,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Ad Hoc,2.3333333333333335,40.0,16.1
-Unknown Client,Unknown Worker,Month End:  Assets,4.0,72.0,36.75
-Unknown Client,Unknown Worker,Month End: Liabilities,1.3333333333333333,72.0,36.75
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,72.0,36.75
-Unknown Client,Unknown Worker,Month End:  Assets,0.8333333333333334,24.0,13.25
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.16666666666666666,0.0,0.16666666666666666
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,2.0833333333333335,47.0,43.583333333333336
-Unknown Client,Unknown Worker,Ad Hoc,3.5833333333333335,47.0,43.583333333333336
-Unknown Client,Unknown Worker,Ad Hoc,0.75,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5833333333333334,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Ad Hoc,0.25,12.0,18.916666666666664
-Unknown Client,Unknown Worker,Month End:  Assets,2.5,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.5,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,1.25,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Ad Hoc,4.083333333333333,8.0,5.333333333333333
-Unknown Client,Unknown Worker,Month End: Liabilities,1.25,8.0,5.333333333333333
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,7.166666666666667,10.0,9.666666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,10.0,9.666666666666668
-Unknown Client,Unknown Worker,Bookkeeping,0.5,10.0,9.666666666666668
-Unknown Client,Unknown Worker,Internal Admin,0.6666666666666666,0.0,0.6666666666666666
-Unknown Client,Unknown Worker,Bill Pay,0.6666666666666666,0.75,1.1666666666666665
-Unknown Client,Unknown Worker,Bill Pay,1.0,1.0,9.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,1.0,9.0
-Unknown Client,Unknown Worker,Bookkeeping,3.8333333333333335,1.0,9.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,3.0,1.5
-Unknown Client,Unknown Worker,Bookkeeping,1.3333333333333333,3.0,1.5
-Unknown Client,Unknown Worker,Bill Pay,0.8333333333333334,0.16666666666666666,0.8333333333333334
-Unknown Client,Unknown Worker,Bill Pay,1.6666666666666667,6.0,5.0
-Unknown Client,Unknown Worker,Ad Hoc,0.25,6.0,5.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.08333333333333333,6.0,5.0
-Unknown Client,Unknown Worker,Bill Pay,2.25,1.75,4.166666666666667
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.5,1.0,1.8333333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,1.0,1.8333333333333333
-Unknown Client,Unknown Worker,Bookkeeping,10.25,0.0,10.25
-Unknown Client,Unknown Worker,Ad Hoc,2.75,12.0,18.916666666666664
-Unknown Client,Unknown Worker,Ad Hoc,1.0,0.5,17.25
-Unknown Client,Unknown Worker,Ad Hoc,0.75,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Ad Hoc,9.25,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Ad Hoc,28.25,200.0,180.5
-Unknown Client,Unknown Worker,Ad Hoc,1.75,0.0,7.25
-Unknown Client,Unknown Worker,Team Lead,4.75,60.0,5.75
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.6666666666666666,12.0,1.1666666666666665
-Unknown Client,Unknown Worker,CFO: Other Advisory,4.5,68.33333333333333,29.833333333333332
-Unknown Client,Unknown Worker,CFO: Fundraising/M&A,7.75,68.33333333333333,29.833333333333332
-Unknown Client,Unknown Worker,Client Team Meetings,0.5833333333333334,68.33333333333333,29.833333333333332
-Unknown Client,Unknown Worker,CFO: Treasury Management,0.25,68.33333333333333,29.833333333333332
-Unknown Client,Unknown Worker,CFO: Fundraising/M&A,1.0,14.333333333333332,7.833333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,1.5,14.333333333333332,7.833333333333333
-Unknown Client,Unknown Worker,CFO: Other Advisory,4.0,42.5,42.75
-Unknown Client,Unknown Worker,CFO: Reporting & Review,9.0,42.5,42.75
-Unknown Client,Unknown Worker,Client Team Meetings,3.25,42.5,42.75
-Unknown Client,Unknown Worker,CFO: Financial Modeling,7.5,42.5,42.75
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,3.05,8.0,8.266666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,2.5,4.0,7.85
-Unknown Client,Unknown Worker,Month End: Liabilities,0.9166666666666666,4.0,7.85
-Unknown Client,Unknown Worker,Internal Admin,0.18333333333333332,0.0,0.85
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Month End: Liabilities,4.966666666666667,13.25,37.95
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,3.3333333333333335,13.25,37.95
-Unknown Client,Unknown Worker,Month End:  Assets,7.666666666666667,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Bookkeeping,0.5,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.3833333333333333,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Payroll,0.8,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,0.25,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.4166666666666667,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Internal Admin,0.6666666666666666,0.0,0.6666666666666666
-Unknown Client,Unknown Worker,Bill Pay,2.5,9.0,3.5
-Unknown Client,Unknown Worker,Bill Pay,1.0,10.0,9.666666666666668
-Unknown Client,Unknown Worker,Internal Admin,0.5,10.0,9.666666666666668
-Unknown Client,Unknown Worker,Internal Admin,0.5,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Bookkeeping,0.25,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.25,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,2.0,10.216666666666665
-Unknown Client,Unknown Worker,Bookkeeping,4.583333333333333,2.0,10.216666666666665
-Unknown Client,Unknown Worker,Month End:  Assets,0.8333333333333334,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Month End: Liabilities,0.5,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Bookkeeping,1.3333333333333333,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Bill Pay,4.333333333333333,12.0,11.666666666666668
-Unknown Client,Unknown Worker,Month End:  Assets,0.3333333333333333,12.0,11.666666666666668
-Unknown Client,Unknown Worker,Month End: Liabilities,1.75,12.0,11.666666666666668
-Unknown Client,Unknown Worker,Bookkeeping,1.4166666666666667,12.0,11.666666666666668
-Unknown Client,Unknown Worker,Bookkeeping,1.0,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.25,1.5,0.75
-Unknown Client,Unknown Worker,Bill Pay,0.25,4.0,0.25
-Unknown Client,Unknown Worker,Bill Pay,0.9166666666666666,3.5,1.5833333333333333
-Unknown Client,Unknown Worker,Internal Admin,0.16666666666666666,3.5,1.5833333333333333
-Unknown Client,Unknown Worker,Team Lead,8.5,0.0,12.25
-Unknown Client,Unknown Worker,CFO: Other Advisory,8.25,39.0,17.25
-Unknown Client,Unknown Worker,CFO: Other Advisory,4.25,18.0,8.75
-Unknown Client,Unknown Worker,CFO: Other Advisory,6.75,24.0,10.75
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.5,16.0,5.5
-Unknown Client,Unknown Worker,Ad Hoc,1.65,0.0,4.033333333333333
-Unknown Client,Unknown Worker,Internal Admin,0.75,0.0,1.5833333333333335
-Unknown Client,Unknown Worker,Client Team Meetings,1.9333333333333333,0.0,50.733333333333334
-Unknown Client,Unknown Worker,Internal Admin,0.6333333333333333,0.0,0.6333333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.5333333333333333,0.0,1.2
-Unknown Client,Unknown Worker,Bookkeeping,3.8333333333333335,18.0,9.75
-Unknown Client,Unknown Worker,Bookkeeping,1.3,0.0,1.8
-Unknown Client,Unknown Worker,Bookkeeping,7.7,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Bookkeeping,9.916666666666666,19.0,20.9
-Unknown Client,Unknown Worker,Bill Pay,1.5,3.5,2.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,3.5,2.75
-Unknown Client,Unknown Worker,Sick,9.0,0.0,9.0
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.5,1.1666666666666667,4.0
-Unknown Client,Unknown Worker,Bill Pay,0.5,2.0,1.3333333333333335
-Unknown Client,Unknown Worker,Bill Pay,3.75,0.0,4.75
-Unknown Client,Unknown Worker,Cash Flow Management,1.0,0.0,4.75
-Unknown Client,Unknown Worker,Bill Pay,0.25,0.0,0.25
-Unknown Client,Unknown Worker,Bill Pay,0.5,0.0,0.5
-Unknown Client,Unknown Worker,Bill Pay,0.25,10.0,4.283333333333333
-Unknown Client,Unknown Worker,Bookkeeping,0.5,10.0,4.283333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.0,10.0,4.283333333333333
-Unknown Client,Unknown Worker,Bill Pay,0.25,1.5,0.25
-Unknown Client,Unknown Worker,Month End: Liabilities,3.5,24.0,13.25
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.25,24.0,13.25
-Unknown Client,Unknown Worker,Bill Pay,2.0,1.5,2.0
-Unknown Client,Unknown Worker,Bill Pay,2.0,2.25,2.25
-Unknown Client,Unknown Worker,Bookkeeping,0.25,2.25,2.25
-Unknown Client,Unknown Worker,Bill Pay,0.25,27.0,0.75
-Unknown Client,Unknown Worker,Bill Pay,4.5,1.0,4.5
-Unknown Client,Unknown Worker,Bill Pay,1.5,0.0,1.5
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,0.0,7.833333333333334
-Unknown Client,Unknown Worker,Bill Pay,0.75,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Month End:  Assets,0.25,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.25,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,0.75,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.25,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.75,1.5,0.9166666666666666
-Unknown Client,Unknown Worker,Internal Admin,16.583333333333332,0.0,18.916666666666668
-Unknown Client,Unknown Worker,Internal Admin,1.5,0.0,3.0
-Unknown Client,Unknown Worker,Month End:  Assets,2.0,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Month End: Liabilities,1.0,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Client Team Meetings,2.25,31.0,21.75
-Unknown Client,Unknown Worker,Client Onboarding,2.0,44.0,4.0
-Unknown Client,Unknown Worker,Bookkeeping,2.3333333333333335,0.0,2.3333333333333335
-Unknown Client,Unknown Worker,Bill Pay,11.2,0.0,11.2
-Unknown Client,Unknown Worker,Bookkeeping,0.3,8.0,8.266666666666666
-Unknown Client,Unknown Worker,Bill Pay,1.05,1.0,1.05
-Unknown Client,Unknown Worker,Bookkeeping,2.5,4.0,7.85
-Unknown Client,Unknown Worker,Bookkeeping,1.4666666666666666,1.0,4.133333333333334
-Unknown Client,Unknown Worker,Bookkeeping,3.8333333333333335,13.25,37.95
-Unknown Client,Unknown Worker,Bookkeeping,0.38333333333333336,0.0,4.033333333333333
-Unknown Client,Unknown Worker,Bookkeeping,12.616666666666667,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Bookkeeping,0.75,6.416666666666667,4.416666666666667
-Unknown Client,Unknown Worker,Internal Admin,0.6333333333333333,0.0,0.6333333333333333
-Unknown Client,Unknown Worker,Bookkeeping,0.4166666666666667,13.0,4.85
-Unknown Client,Unknown Worker,Bookkeeping,0.3333333333333333,0.5,0.3333333333333333
-Unknown Client,Unknown Worker,Month End: Review with Client,1.0,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.7,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Ad Hoc,0.5333333333333333,2.0,10.216666666666665
-Unknown Client,Unknown Worker,Client Team Meetings,2.8333333333333335,2.0,10.216666666666665
-Unknown Client,Unknown Worker,Bookkeeping,1.7666666666666666,2.0,10.216666666666665
-Unknown Client,Unknown Worker,Internal Admin,1.7,0.0,5.766666666666667
-Unknown Client,Unknown Worker,Internal Transition,1.6666666666666667,0.0,5.766666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.3333333333333333,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Payroll,0.5,0.0,1.8
-Unknown Client,Unknown Worker,Month End:  Assets,2.4,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Month End: Liabilities,1.6333333333333333,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.7333333333333334,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.8,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Cash Flow Management,2.0,3.0,2.0
-Unknown Client,Unknown Worker,Ad Hoc,0.75,0.0,13.333333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,2.183333333333333,0.0,13.333333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,3.5,2.75
-Unknown Client,Unknown Worker,Ad Hoc,1.0,3.0,10.166666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,1.0833333333333333,3.0,10.166666666666668
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,0.0,3.0
-Unknown Client,Unknown Worker,Internal Admin,1.9166666666666667,0.0,3.3333333333333335
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,13.0,3.0
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.6666666666666666,0.0,0.6666666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,0.75,0.25,1.0
-Unknown Client,Unknown Worker,Client Non Billable,0.25,0.25,1.0
-Unknown Client,Unknown Worker,Client Team Oversight & Management,0.5,43.0,12.683333333333334
-Unknown Client,Unknown Worker,Bookkeeping,1.1666666666666667,43.0,12.683333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.8333333333333333,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Ad Hoc,4.083333333333333,0.5,17.25
-Unknown Client,Unknown Worker,Client Team Meetings,1.1666666666666667,0.5,17.25
-Unknown Client,Unknown Worker,Ad Hoc,2.0,23.5,26.933333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.1666666666666665,23.5,26.933333333333334
-Unknown Client,Unknown Worker,Bookkeeping,5.35,44.0,27.616666666666667
-Unknown Client,Unknown Worker,Bookkeeping,4.05,1.0,4.05
-Unknown Client,Unknown Worker,Client Team Oversight & Management,0.5,4.0,0.5
-Unknown Client,Unknown Worker,Bookkeeping,1.25,0.0,2.1166666666666667
-Unknown Client,Unknown Worker,Bookkeeping,0.9166666666666666,5.0,0.9166666666666666
-Unknown Client,Unknown Worker,Month End: Review with Client,0.8333333333333334,23.5,26.933333333333334
-Unknown Client,Unknown Worker,Bookkeeping,7.8,23.5,26.933333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.3333333333333333,10.5,23.25
-Unknown Client,Unknown Worker,Month End:  Assets,0.4166666666666667,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End: Liabilities,0.5833333333333334,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,5.0,36.75,29.583333333333332
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,1.5,0.75
-Unknown Client,Unknown Worker,Month End:  Assets,1.1666666666666667,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.9166666666666666,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Month End: Liabilities,0.8333333333333334,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.4166666666666667,14.5,13.166666666666666
-Unknown Client,Unknown Worker,Internal Admin,0.75,0.0,1.5833333333333333
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.8333333333333333,16.5,47.91666666666667
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.25,18.0,6.8
-Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,8.0,3.7500000000000004
-Unknown Client,Unknown Worker,Cash Flow Management,1.5,4.0,1.5
-Unknown Client,Unknown Worker,Month End:  Assets,0.75,4.0,4.75
-Unknown Client,Unknown Worker,Ad Hoc,0.75,2.5,1.5833333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,2.5,1.5833333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,1.0,40.0,28.5
-Unknown Client,Unknown Worker,Bill Pay,0.75,8.0,1.5833333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,9.75,23.0,30.75
-Unknown Client,Unknown Worker,Bill Pay,0.5,8.0,1.0333333333333332
-Unknown Client,Unknown Worker,Bill Pay,0.25,9.0,1.75
-Unknown Client,Unknown Worker,Ad Hoc,0.75,7.0,8.25
-Unknown Client,Unknown Worker,Client Team Meetings,1.25,7.0,8.25
-Unknown Client,Unknown Worker,Ad Hoc,21.0,0.0,48.35
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,8.25,15.5,18.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,1.5,0.75
-Unknown Client,Unknown Worker,Bookkeeping,1.0,12.0,4.166666666666667
-Unknown Client,Unknown Worker,Month End:  Assets,0.5,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Ad Hoc,7.25,0.0,48.35
-Unknown Client,Unknown Worker,Ad Hoc,2.25,31.0,3.25
-Unknown Client,Unknown Worker,Month End:  Assets,0.75,34.7,2.083333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,34.7,2.083333333333333
-Unknown Client,Unknown Worker,Internal Admin,1.0,0.0,1.0
-Unknown Client,Unknown Worker,Ad Hoc,1.75,40.0,16.1
-Unknown Client,Unknown Worker,Ad Hoc,1.3333333333333333,0.0,4.383333333333333
-Unknown Client,Unknown Worker,Ad Hoc,1.65,6.0,2.433333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,0.75,34.7,27.550000000000004
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,4.133333333333334,34.7,27.550000000000004
-Unknown Client,Unknown Worker,Ad Hoc,4.25,9.0,22.3
-Unknown Client,Unknown Worker,Ad Hoc,2.8833333333333333,3.5,4.383333333333333
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.25,0.0,1.25
-Unknown Client,Unknown Worker,CFO: Reporting & Review,4.0,1.0,4.0
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.25,20.0,10.75
-Unknown Client,Unknown Worker,Internal Admin,4.75,37.0,26.099999999999998
-Unknown Client,Unknown Worker,CFO: Reporting & Review,3.5,5.0,3.5
-Unknown Client,Unknown Worker,CFO: Other Advisory,1.0,7.0,9.25
-Unknown Client,Unknown Worker,CFO: Reporting & Review,5.0,12.0,18.916666666666664
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,1.0,1.5
-Unknown Client,Unknown Worker,Month End:  Assets,1.0,0.0,9.0
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.0,0.0,9.0
-Unknown Client,Unknown Worker,Month End: Review with Client,1.0,0.0,9.0
-Unknown Client,Unknown Worker,Month End: Liabilities,1.0,0.0,9.0
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,2.0,0.0,9.0
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.0,0.0,9.0
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.25,0.0,4.7
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,0.0,4.7
-Unknown Client,Unknown Worker,Cash Flow Management,0.25,0.0,4.7
-Unknown Client,Unknown Worker,Client Team Meetings,1.0,0.0,1.0
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,0.0,0.75
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.0,0.0,2.0
-Unknown Client,Unknown Worker,CFO: Financial Modeling,2.0,0.0,9.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,0.0,6.5
-Unknown Client,Unknown Worker,Cash Flow Management,1.0,0.0,6.5
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.75,0.0,29.0
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.5,0.0,29.0
-Unknown Client,Unknown Worker,Client Team Meetings,0.9166666666666666,0.0,29.0
-Unknown Client,Unknown Worker,Client Non Billable,1.0,0.0,29.0
-Unknown Client,Unknown Worker,Month End:  Assets,2.8333333333333335,44.0,27.616666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.6666666666666665,44.0,27.616666666666667
-Unknown Client,Unknown Worker,Internal Admin,0.5,0.0,0.75
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.4166666666666667,3.0,0.4166666666666667
-Unknown Client,Unknown Worker,Month End: Equity,0.3333333333333333,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End:  Assets,2.5,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.25,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End: Liabilities,4.083333333333333,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.0,47.0,43.66666666666666
-Unknown Client,Unknown Worker,ERP Implementation,2.25,102.0,44.18333333333333
-Unknown Client,Unknown Worker,Internal Trainer,1.3333333333333333,37.0,26.099999999999998
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.4166666666666667,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Client Team Oversight & Management,1.5833333333333333,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Ad Hoc,7.833333333333333,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,1.1666666666666667,4.0
-Unknown Client,Unknown Worker,Cash Flow Management,5.5,2.0,6.2
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Ad Hoc,1.0,1.0,1.0
-Unknown Client,Unknown Worker,Ad Hoc,1.0833333333333333,0.0,7.1
-Unknown Client,Unknown Worker,Internal Trainer,2.2666666666666666,37.0,26.099999999999998
-Unknown Client,Unknown Worker,Ad Hoc,1.0166666666666666,6.0,2.3833333333333333
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,2.0,1.5
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.75,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,0.43333333333333335,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.0833333333333335,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Month End:  Assets,8.566666666666666,13.25,37.95
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,0.0,4.383333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,4.0,1.0
-Unknown Client,Unknown Worker,Internal Admin,16.25,2.0,16.25
-Unknown Client,Unknown Worker,Internal Trainer,1.4,0.0,4.4
-Unknown Client,Unknown Worker,Ad Hoc,0.5,0.0,3.0
-Unknown Client,Unknown Worker,Month End:  Assets,0.8,43.0,7.916666666666667
-Unknown Client,Unknown Worker,Bill Pay,2.5,19.0,7.883333333333334
-Unknown Client,Unknown Worker,Ad Hoc,1.8,5.5,3.2666666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,0.8,5.5,3.2666666666666666
-Unknown Client,Unknown Worker,Bill Pay,1.2,10.0,2.7
-Unknown Client,Unknown Worker,Payroll,0.7,3.5,5.066666666666666
-Unknown Client,Unknown Worker,Payroll,0.3,0.5,0.3
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.3,13.0,9.25
-Unknown Client,Unknown Worker,Month End: Liabilities,1.3,13.0,9.25
-Unknown Client,Unknown Worker,Ad Hoc,1.5,3.5,4.383333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,1.5,4.0,4.75
-Unknown Client,Unknown Worker,Month End: Liabilities,0.75,4.0,4.75
-Unknown Client,Unknown Worker,Ad Hoc,0.25,0.0,1.6833333333333333
-Unknown Client,Unknown Worker,Ad Hoc,1.5,23.0,30.75
-Unknown Client,Unknown Worker,Month End:  Assets,2.5,23.0,30.75
-Unknown Client,Unknown Worker,Month End: Liabilities,5.5,23.0,30.75
-Unknown Client,Unknown Worker,Ad Hoc,4.25,0.0,15.0
-Unknown Client,Unknown Worker,Month End:  Assets,2.75,1.0,4.5
-Unknown Client,Unknown Worker,Month End: Liabilities,0.75,1.0,4.5
-Unknown Client,Unknown Worker,Month End:  Assets,1.5,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Sales Tax,2.0,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,0.0,32.18333333333334
-Unknown Client,Unknown Worker,CFO: Treasury Management,1.9166666666666667,76.0,18.833333333333336
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,15.0,15.049999999999999
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.5833333333333334,1.0,0.5833333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,9.166666666666666,47.0,43.583333333333336
-Unknown Client,Unknown Worker,CFO: Fundraising/M&A,1.9166666666666667,21.0,3.166666666666667
-Unknown Client,Unknown Worker,Internal Trainer,1.0,37.0,26.099999999999998
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.9166666666666667,8.0,2.916666666666667
-Unknown Client,Unknown Worker,CFO: Financial Modeling,1.0,8.0,2.916666666666667
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.1666666666666665,76.0,36.583333333333336
-Unknown Client,Unknown Worker,CFO: Fundraising/M&A,2.25,76.0,36.583333333333336
-Unknown Client,Unknown Worker,Cash Flow Management,0.75,76.0,36.583333333333336
-Unknown Client,Unknown Worker,CFO: Other Advisory,11.5,0.0,38.5
-Unknown Client,Unknown Worker,CFO: Reporting & Review,4.0,0.0,38.5
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.5,0.0,3.0
-Unknown Client,Unknown Worker,Internal Trainer,1.5,37.0,26.099999999999998
-Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,0.0,7.833333333333334
-Unknown Client,Unknown Worker,Internal Admin,1.5,0.0,2.0
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5,3.0,1.5
-Unknown Client,Unknown Worker,Month End:  Assets,2.0,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.5,22.25,12.25
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,22.25,12.25
-Unknown Client,Unknown Worker,Client Team Meetings,0.5833333333333334,10.0,1.5833333333333335
-Unknown Client,Unknown Worker,Cash Flow Management,0.3333333333333333,1.75,3.0
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.0,22.25,13.833333333333334
-Unknown Client,Unknown Worker,Month End:  Assets,1.0,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,0.75,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.4166666666666665,72.0,21.916666666666668
-Unknown Client,Unknown Worker,Client Team Oversight & Management,2.0,0.0,4.25
-Unknown Client,Unknown Worker,Client Team Oversight & Management,1.0,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,7.0,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Internal Trainer,1.8333333333333333,37.0,26.099999999999998
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,7.0,1.0
-Unknown Client,Unknown Worker,Client Team Meetings,3.0,0.0,7.833333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5833333333333334,0.0,7.833333333333334
-Unknown Client,Unknown Worker,Bill Pay,0.11666666666666667,2.75,7.366666666666666
-Unknown Client,Unknown Worker,Ad Hoc,2.8833333333333333,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Month End:  Assets,0.9833333333333333,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,0.95,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.7333333333333333,12.0,2.3833333333333333
-Unknown Client,Unknown Worker,Cash Flow Management,0.65,12.0,2.3833333333333333
-Unknown Client,Unknown Worker,Cash Flow Management,0.7,2.0,6.2
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.8333333333333334,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Client Team Meetings,0.85,0.0,12.166666666666664
-Unknown Client,Unknown Worker,Month End:  Assets,0.75,18.5,8.05
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,3.433333333333333,18.5,8.05
-Unknown Client,Unknown Worker,Cash Flow Management,0.5,2.0,0.5
-Unknown Client,Unknown Worker,Ad Hoc,0.4166666666666667,0.0,7.1
-Unknown Client,Unknown Worker,Month End:  Assets,0.9666666666666667,0.0,7.1
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,2.533333333333333,0.0,7.1
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5333333333333333,0.0,7.1
-Unknown Client,Unknown Worker,Cash Flow Management,1.5666666666666667,0.0,7.1
-Unknown Client,Unknown Worker,Bookkeeping,0.75,6.0,0.75
-Unknown Client,Unknown Worker,Month End: Liabilities,0.35,8.0,1.2166666666666668
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.11666666666666667,8.0,1.2166666666666668
-Unknown Client,Unknown Worker,Inventory Implementation,0.8666666666666667,2.0,0.8666666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.21666666666666667,3.5,0.21666666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.6166666666666667,0.0,16.3
-Unknown Client,Unknown Worker,Client Team Meetings,0.7833333333333333,6.0,2.433333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,1.2666666666666666,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.38333333333333336,6.0,2.3833333333333333
-Unknown Client,Unknown Worker,Inventory Implementation,0.9833333333333333,6.0,2.3833333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.6,24.5,10.083333333333332
-Unknown Client,Unknown Worker,Cash Flow Management,0.75,2.0,1.5
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.5,0.0,2.25
-Unknown Client,Unknown Worker,Client Onboarding,0.8333333333333334,0.0,3.916666666666667
-Unknown Client,Unknown Worker,CFO: Reporting & Review,1.8333333333333333,0.0,3.916666666666667
-Unknown Client,Unknown Worker,CFO: Financial Modeling,1.25,0.0,3.916666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.5833333333333334,2.0,0.75
-Unknown Client,Unknown Worker,Client Team Meetings,2.25,12.0,3.166666666666667
-Unknown Client,Unknown Worker,CFO: Financial Modeling,0.5833333333333334,12.0,3.166666666666667
-Unknown Client,Unknown Worker,Cash Flow Management,0.3333333333333333,12.0,3.166666666666667
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.6666666666666666,0.0,2.9166666666666665
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,12.0,58.33333333333333
-Unknown Client,Unknown Worker,CFO: Reporting & Review,3.6666666666666665,11.0,8.75
-Unknown Client,Unknown Worker,Client Team Meetings,3.0,11.0,8.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,3.0,10.166666666666668
-Unknown Client,Unknown Worker,Month End:  Assets,1.2333333333333334,43.0,7.916666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,3.3833333333333333,43.0,7.916666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.16666666666666666,19.0,7.883333333333334
-Unknown Client,Unknown Worker,Bookkeeping,2.3,19.0,7.883333333333334
-Unknown Client,Unknown Worker,Bill Pay,3.1333333333333333,6.0,3.1333333333333333
-Unknown Client,Unknown Worker,Bookkeeping,2.75,0.0,2.75
-Unknown Client,Unknown Worker,Payroll,2.3666666666666667,3.5,5.066666666666666
-Unknown Client,Unknown Worker,Ad Hoc,1.05,23.5,15.233333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,23.5,15.233333333333333
-Unknown Client,Unknown Worker,Sales Tax,6.416666666666667,0.0,8.8
-Unknown Client,Unknown Worker,Client Team Meetings,0.6333333333333333,2.0,6.5166666666666675
-Unknown Client,Unknown Worker,Bookkeeping,5.883333333333334,2.0,6.5166666666666675
-Unknown Client,Unknown Worker,Bookkeeping,1.1666666666666667,8.0,1.1666666666666667
-Unknown Client,Unknown Worker,Bill Pay,9.316666666666666,8.0,11.65
-Unknown Client,Unknown Worker,Bookkeeping,2.3333333333333335,8.0,11.65
-Unknown Client,Unknown Worker,Client Team Meetings,1.25,23.5,15.233333333333333
-Unknown Client,Unknown Worker,Month End: Equity,2.566666666666667,66.0,46.31666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,9.633333333333333,66.0,46.31666666666666
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.433333333333333,66.0,46.31666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.75,0.0,3.0
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.8333333333333334,0.0,8.25
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.5,0.0,8.25
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,0.0,8.25
-Unknown Client,Unknown Worker,Sales Tax,0.75,0.0,2.166666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.4166666666666667,0.0,2.166666666666667
-Unknown Client,Unknown Worker,Cash Flow Management,1.6666666666666667,0.0,5.416666666666666
-Unknown Client,Unknown Worker,Bill Pay,7.25,2.75,7.366666666666666
-Unknown Client,Unknown Worker,Bookkeeping,1.0,12.0,2.3833333333333333
-Unknown Client,Unknown Worker,Bookkeeping,1.3,0.0,1.3
-Unknown Client,Unknown Worker,Bookkeeping,3.0833333333333335,0.0,3.0833333333333335
-Unknown Client,Unknown Worker,Bill Pay,4.333333333333333,6.0,12.566666666666666
-Unknown Client,Unknown Worker,Bookkeeping,4.0,6.0,12.566666666666666
-Unknown Client,Unknown Worker,Bill Pay,0.75,1.75,3.0
-Unknown Client,Unknown Worker,Cash Flow Management,0.9166666666666666,1.75,3.0
-Unknown Client,Unknown Worker,Month End: Liabilities,2.75,31.0,11.916666666666666
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.5833333333333334,31.0,11.916666666666666
-Unknown Client,Unknown Worker,Month End:  Assets,6.916666666666667,34.7,27.550000000000004
-Unknown Client,Unknown Worker,Month End: Liabilities,7.75,34.7,27.550000000000004
-Unknown Client,Unknown Worker,Ad Hoc,0.5,6.0,18.166666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,1.5833333333333333,6.0,18.166666666666668
-Unknown Client,Unknown Worker,Cash Flow Management,1.8333333333333333,6.0,18.166666666666668
-Unknown Client,Unknown Worker,Bookkeeping,0.4166666666666667,43.0,8.033333333333333
-Unknown Client,Unknown Worker,Internal Admin,0.5,0.0,0.5
-Unknown Client,Unknown Worker,Bookkeeping,0.25,2.0,0.25
-Unknown Client,Unknown Worker,Bill Pay,0.7166666666666667,2.5,0.7166666666666667
-Unknown Client,Unknown Worker,Internal Admin,23.75,0.0,29.883333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.2833333333333333,13.0,1.1666666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.36666666666666664,8.0,1.0333333333333332
-Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,8.0,1.0333333333333332
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,13.5,7.916666666666667
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.5,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Month End: Liabilities,1.0,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5833333333333333,21.5,15.416666666666668
-Unknown Client,Unknown Worker,Bookkeeping,0.25,43.0,8.033333333333333
-Unknown Client,Unknown Worker,Internal Admin,1.9166666666666667,0.0,3.6666666666666665
-Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,5.5,3.2666666666666666
-Unknown Client,Unknown Worker,Bill Pay,1.5,10.0,2.7
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,13.0,1.1666666666666667
-Unknown Client,Unknown Worker,Month End:  Assets,2.0,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Month End: Liabilities,1.0,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.0,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Internal Admin,0.5,0.5,0.5
-Unknown Client,Unknown Worker,Bill Pay,0.9333333333333333,1.75,0.9333333333333333
-Unknown Client,Unknown Worker,Bill Pay,0.08333333333333333,1.0,0.08333333333333333
-Unknown Client,Unknown Worker,Bill Pay,1.6333333333333333,1.75,1.6333333333333333
-Unknown Client,Unknown Worker,Bill Pay,3.816666666666667,5.0,3.816666666666667
-Unknown Client,Unknown Worker,Bill Pay,1.55,1.75,1.8
-Unknown Client,Unknown Worker,Bill Pay,1.6166666666666667,2.25,1.6166666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.36666666666666664,1.25,0.36666666666666664
-Unknown Client,Unknown Worker,Bill Pay,1.4833333333333334,6.0,2.2666666666666666
-Unknown Client,Unknown Worker,Bill Pay,2.183333333333333,1.75,2.3499999999999996
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.8166666666666667,0.0,2.05
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.1166666666666667,10.0,4.283333333333333
-Unknown Client,Unknown Worker,Ad Hoc,2.0833333333333335,0.0,2.0833333333333335
-Unknown Client,Unknown Worker,Month End: Review with Client,0.3333333333333333,12.25,10.766666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.4,12.25,10.766666666666667
-Unknown Client,Unknown Worker,Month End: Review with Client,1.0,11.0,8.716666666666667
-Unknown Client,Unknown Worker,Cash Flow Management,1.0,1.5,1.0
-Unknown Client,Unknown Worker,CFO: Reporting & Review,0.5833333333333334,13.5,7.916666666666667
-Unknown Client,Unknown Worker,Cash Flow Management,0.8333333333333334,0.5,0.8333333333333334
-Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,2.0,0.75
-Unknown Client,Unknown Worker,Bill Pay,0.3333333333333333,1.25,0.3333333333333333
-Unknown Client,Unknown Worker,Bill Pay,0.25,1.75,1.8
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,3.0,0.25
-Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,1.5,0.16666666666666666
-Unknown Client,Unknown Worker,Cash Flow Management,0.75,0.5,0.75
-Unknown Client,Unknown Worker,Ad Hoc,1.0,1.5,1.5833333333333335
-Unknown Client,Unknown Worker,Client Team Meetings,0.5833333333333334,1.5,1.5833333333333335
-Unknown Client,Unknown Worker,Month End:  Assets,1.0333333333333334,17.0,9.366666666666665
-Unknown Client,Unknown Worker,Internal Trainer,1.25,37.0,26.099999999999998
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,11.0,4.5
-Unknown Client,Unknown Worker,Internal Admin,0.5,0.0,0.8333333333333334
-Unknown Client,Unknown Worker,Bill Pay,1.25,2.0,1.25
-Unknown Client,Unknown Worker,Month End:  Assets,0.3333333333333333,5.0,4.75
-Unknown Client,Unknown Worker,Month End: Liabilities,1.25,5.0,4.75
-Unknown Client,Unknown Worker,Cash Flow Management,0.75,0.5,0.75
-Unknown Client,Unknown Worker,Bookkeeping,0.16666666666666666,1.0,0.9166666666666666
-Unknown Client,Unknown Worker,Ad Hoc,3.4166666666666665,8.25,5.416666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,2.0,8.25,5.416666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.75,1.5,1.1666666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.16666666666666666,1.75,2.3499999999999996
-Unknown Client,Unknown Worker,Ad Hoc,1.0,0.0,1.0
-Unknown Client,Unknown Worker,Ad Hoc,1.0833333333333333,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.5,40.0,16.1
-Unknown Client,Unknown Worker,Ad Hoc,0.25,72.0,36.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,72.0,36.75
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.5,72.0,36.75
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.6666666666666667,24.0,13.25
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.1666666666666667,24.0,13.25
-Unknown Client,Unknown Worker,Ad Hoc,0.25,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,3.4166666666666665,15.0,13.333333333333334
-Unknown Client,Unknown Worker,Ad Hoc,0.16666666666666666,12.0,18.916666666666664
-Unknown Client,Unknown Worker,Ad Hoc,0.75,23.75,38.46666666666666
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,2.75,8.0,3.7500000000000004
-Unknown Client,Unknown Worker,Ad Hoc,0.3333333333333333,8.0,3.7500000000000004
-Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,8.0,3.7500000000000004
-Unknown Client,Unknown Worker,Ad Hoc,5.0,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Ad Hoc,22.0,200.0,180.5
-Unknown Client,Unknown Worker,CFO: Other Advisory,1.5,68.33333333333333,29.833333333333332
-Unknown Client,Unknown Worker,CFO: Other Advisory,3.0,42.5,42.75
-Unknown Client,Unknown Worker,CFO: Reporting & Review,2.0,42.5,42.75
-Unknown Client,Unknown Worker,CFO: Financial Modeling,4.0,42.5,42.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,0.0,3.0
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.5333333333333333,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,6.166666666666667,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End: Liabilities,2.6,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.7166666666666667,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Client Team Meetings,0.75,4.0,1.0
-Unknown Client,Unknown Worker,Month End:  Assets,3.683333333333333,20.3,10.5
-Unknown Client,Unknown Worker,Expense Management (Credit Card),0.5,20.3,10.5
-Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.6666666666666665,20.3,10.5
-Unknown Client,Unknown Worker,Month End: Liabilities,2.2666666666666666,20.3,10.5
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0833333333333333,20.3,10.5
-Unknown Client,Unknown Worker,Month End:  Assets,0.75,1.0,0.75
-Unknown Client,Unknown Worker,Bookkeeping,0.25,4.0,0.25
-Unknown Client,Unknown Worker,Internal Admin,0.3333333333333333,2.5,1.5833333333333333
-Unknown Client,Unknown Worker,Bill Pay,1.75,12.0,4.166666666666667
-Unknown Client,Unknown Worker,Client Team Meetings,0.25,12.0,4.166666666666667
-Unknown Client,Unknown Worker,Bookkeeping,1.1666666666666667,12.0,4.166666666666667
-Unknown Client,Unknown Worker,Bill Pay,0.3333333333333333,3.5,0.3333333333333333
-Unknown Client,Unknown Worker,Month End:  Assets,0.25,2.0,8.516666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,2.0,8.516666666666666
-Unknown Client,Unknown Worker,Bookkeeping,3.75,2.0,8.516666666666666
-Unknown Client,Unknown Worker,Bill Pay,1.5,9.0,1.75
-Unknown Client,Unknown Worker,Team Lead,1.5,0.0,12.25
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.5,39.0,17.25
-Unknown Client,Unknown Worker,CFO: Other Advisory,3.75,18.0,8.75
-Unknown Client,Unknown Worker,CFO: Other Advisory,2.0,24.0,10.75
-Unknown Client,Unknown Worker,CFO: Other Advisory,1.75,16.0,5.5
-Unknown Client,Unknown Worker,Internal Trainer,0.8333333333333334,0.0,1.5833333333333335
-Unknown Client,Unknown Worker,Bookkeeping,1.5,0.0,1.5
-Unknown Client,Unknown Worker,Bookkeeping,1.0,0.0,22.566666666666666
-Unknown Client,Unknown Worker,Bookkeeping,0.5666666666666667,0.0,7.35
-Unknown Client,Unknown Worker,Bookkeeping,2.9166666666666665,19.0,7.883333333333334
-Unknown Client,Unknown Worker,Bookkeeping,2.2666666666666666,18.0,6.8
-Unknown Client,Unknown Worker,Bookkeeping,4.35,23.75,38.46666666666666
-Unknown Client,Unknown Worker,Bill Pay,0.5,2.0,0.5
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.0,0.0,1.0
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.75,1.1666666666666667,4.0
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,4.5,22.25,12.25
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.5,27.0,1.5
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.5,0.0,1.5
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.25,6.0,1.25
-Unknown Client,Unknown Worker,Cash Flow Management,1.0,6.0,1.25
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,3.0,1.0,3.0
-Unknown Client,Unknown Worker,Bill Pay,3.5,1.0,3.5
-Unknown Client,Unknown Worker,Bill Pay,1.5,0.0,2.75
-Unknown Client,Unknown Worker,Bookkeeping,1.25,0.0,2.75
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,2.5,0.0,41.333333333333336
-Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,6.25,1.0,19.75
-Unknown Client,Unknown Worker,Client Team Meetings,0.5,0.0,7.833333333333334
-Unknown Client,Unknown Worker,Bill Pay,1.75,0.0,2.25
-Unknown Client,Unknown Worker,Cash Flow Management,0.5,0.0,2.25
-Unknown Client,Unknown Worker,Bookkeeping,0.75,1.0,0.9166666666666666
-Unknown Client,Unknown Worker,Bookkeeping,1.5,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Internal Admin,2.3333333333333335,0.0,18.916666666666668
-Unknown Client,Unknown Worker,Month End:  Assets,1.5,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Client Onboarding,0.5,44.0,4.0
-Unknown Client,Unknown Worker,Bookkeeping,7.366666666666666,43.0,8.033333333333333
-Unknown Client,Unknown Worker,Bookkeeping,2.6666666666666665,1.0,4.133333333333334
-Unknown Client,Unknown Worker,Bookkeeping,1.55,1.0,1.55
-Unknown Client,Unknown Worker,Bookkeeping,3.05,0.5,3.05
-Unknown Client,Unknown Worker,Bookkeeping,0.5,0.0,4.033333333333333
-Unknown Client,Unknown Worker,Bill Pay,0.9166666666666666,0.0,0.9166666666666666
-Unknown Client,Unknown Worker,Bookkeeping,2.5833333333333335,12.0,58.33333333333333
-Unknown Client,Unknown Worker,Bookkeeping,0.5,0.5,0.5
-Unknown Client,Unknown Worker,Bookkeeping,0.3,13.0,1.1666666666666667
-Unknown Client,Unknown Worker,Bookkeeping,1.5,0.0,1.5
-Unknown Client,Unknown Worker,Bill Pay,3.316666666666667,1.0,3.316666666666667
-Unknown Client,Unknown Worker,Month End: Review with Client,0.5,15.0,26.616666666666667
-Unknown Client,Unknown Worker,Payroll,2.033333333333333,0.0,7.35
-Unknown Client,Unknown Worker,Internal Admin,1.4833333333333334,0.0,5.766666666666667
-Unknown Client,Unknown Worker,Month End: Review with Client,1.5166666666666666,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.3333333333333333,15.0,15.049999999999999
-Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.4166666666666667,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,9.416666666666666,47.0,43.66666666666666
-Unknown Client,Unknown Worker,Ad Hoc,0.16666666666666666,2.0,8.516666666666666
-Unknown Client,Unknown Worker,Client Team Meetings,0.7,2.0,8.516666666666666
-Unknown Client,Unknown Worker,Bookkeeping,3.15,2.0,8.516666666666666
-Unknown Client,Unknown Worker,Cash Flow Management,1.2,0.0,1.2
-Unknown Client,Unknown Worker,Client Team Meetings,2.05,0.0,4.383333333333333
-Unknown Client,Unknown Worker,Bookkeeping,1.0666666666666667,18.0,6.8
-Unknown Client,Unknown Worker,Month End:  Assets,0.36666666666666664,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,4.9,0.0,32.18333333333334
-Unknown Client,Unknown Worker,Ad Hoc,0.5,3.0,10.166666666666668
-Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,3.0,10.166666666666668
-Unknown Client,Unknown Worker,Internal Admin,0.3333333333333333,0.0,3.3333333333333335
-Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,13.0,1.1666666666666667
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.16666666666666666,13.0,35.66666666666667
-Unknown Client,Unknown Worker,Client Team Oversight & Management,0.3333333333333333,0.5,17.25
-Unknown Client,Unknown Worker,Ad Hoc,1.8333333333333333,0.5,17.25
-Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.0,23.5,26.933333333333334
-Unknown Client,Unknown Worker,Bookkeeping,4.35,44.0,27.616666666666667
-Unknown Client,Unknown Worker,Bookkeeping,2.7333333333333334,5.0,2.7333333333333334
-Unknown Client,Unknown Worker,Bookkeeping,3.6333333333333333,0.0,26.116666666666667
-Unknown Client,Unknown Worker,Bookkeeping,2.25,0.0,79.61666666666666
+Client,Worker,Task,Actual Hours,Budgeted Hours
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.3333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.4166666666666667,0
+Unknown Client,Unknown Worker,Month End: Liabilities,0.5833333333333334,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,5.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.25,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.1666666666666667,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.9166666666666666,0
+Unknown Client,Unknown Worker,Month End: Liabilities,0.8333333333333334,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.4166666666666667,0
+Unknown Client,Unknown Worker,Internal Admin,0.75,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.8333333333333333,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.5,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.75,0
+Unknown Client,Unknown Worker,Ad Hoc,0.75,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.0,0
+Unknown Client,Unknown Worker,Bill Pay,0.75,0
+Unknown Client,Unknown Worker,Month End:  Assets,9.75,0
+Unknown Client,Unknown Worker,Bill Pay,0.5,0
+Unknown Client,Unknown Worker,Bill Pay,0.25,0
+Unknown Client,Unknown Worker,Ad Hoc,0.75,0
+Unknown Client,Unknown Worker,Client Team Meetings,1.25,0
+Unknown Client,Unknown Worker,Ad Hoc,21.0,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,8.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Bookkeeping,1.0,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.5,0
+Unknown Client,Unknown Worker,Ad Hoc,7.25,0
+Unknown Client,Unknown Worker,Ad Hoc,2.25,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.75,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Unknown Worker,Internal Admin,1.0,0
+Unknown Client,Unknown Worker,Ad Hoc,1.75,0
+Unknown Client,Unknown Worker,Ad Hoc,1.3333333333333333,0
+Unknown Client,Unknown Worker,Ad Hoc,1.65,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.75,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,4.133333333333334,0
+Unknown Client,Unknown Worker,Ad Hoc,4.25,0
+Unknown Client,Unknown Worker,Ad Hoc,2.8833333333333333,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,1.25,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,4.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,1.25,0
+Unknown Client,Unknown Worker,Internal Admin,4.75,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,3.5,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,1.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,5.0,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.0,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.0,0
+Unknown Client,Unknown Worker,Month End: Review with Client,1.0,0
+Unknown Client,Unknown Worker,Month End: Liabilities,1.0,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,2.0,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,1.0,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,1.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,2.0,0
+Unknown Client,Unknown Worker,CFO: Financial Modeling,2.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.0,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,0.75,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.5,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.9166666666666666,0
+Unknown Client,Unknown Worker,Client Non Billable,1.0,0
+Unknown Client,Unknown Worker,Month End:  Assets,2.8333333333333335,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.6666666666666665,0
+Unknown Client,Unknown Worker,Internal Admin,0.5,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.4166666666666667,0
+Unknown Client,Unknown Worker,Month End: Equity,0.3333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,2.5,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.25,0
+Unknown Client,Unknown Worker,Month End: Liabilities,4.083333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.0,0
+Unknown Client,Unknown Worker,ERP Implementation,2.25,0
+Unknown Client,Unknown Worker,Internal Trainer,1.3333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.4166666666666667,0
+Unknown Client,Unknown Worker,Client Team Oversight & Management,1.5833333333333333,0
+Unknown Client,Unknown Worker,Ad Hoc,7.833333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Unknown Worker,Cash Flow Management,5.5,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Unknown Worker,Ad Hoc,1.0,0
+Unknown Client,Unknown Worker,Ad Hoc,1.0833333333333333,0
+Unknown Client,Unknown Worker,Internal Trainer,2.2666666666666666,0
+Unknown Client,Unknown Worker,Ad Hoc,1.0166666666666666,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.75,0
+Unknown Client,Unknown Worker,Month End: Liabilities,0.43333333333333335,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.0833333333333335,0
+Unknown Client,Unknown Worker,Month End:  Assets,8.566666666666666,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.25,0
+Unknown Client,Unknown Worker,Internal Admin,20.25,0
+Unknown Client,Unknown Worker,Internal Trainer,1.4,0
+Unknown Client,Unknown Worker,Ad Hoc,0.5,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.8,0
+Unknown Client,Unknown Worker,Bill Pay,2.5,0
+Unknown Client,Unknown Worker,Ad Hoc,1.8,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.8,0
+Unknown Client,Unknown Worker,Bill Pay,1.2,0
+Unknown Client,Unknown Worker,Payroll,0.7,0
+Unknown Client,Unknown Worker,Payroll,0.3,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.3,0
+Unknown Client,Unknown Worker,Month End: Liabilities,1.3,0
+Unknown Client,Unknown Worker,Ad Hoc,1.5,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.5,0
+Unknown Client,Unknown Worker,Month End: Liabilities,0.75,0
+Unknown Client,Unknown Worker,Ad Hoc,0.25,0
+Unknown Client,Unknown Worker,Ad Hoc,1.5,0
+Unknown Client,Unknown Worker,Month End:  Assets,2.5,0
+Unknown Client,Unknown Worker,Month End: Liabilities,5.5,0
+Unknown Client,Unknown Worker,Ad Hoc,4.25,0
+Unknown Client,Unknown Worker,Month End:  Assets,2.75,0
+Unknown Client,Unknown Worker,Month End: Liabilities,0.75,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.5,0
+Unknown Client,Unknown Worker,Sales Tax,2.0,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Unknown Worker,CFO: Treasury Management,1.9166666666666667,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.5833333333333334,0
+Unknown Client,Unknown Worker,Client Team Meetings,9.166666666666666,0
+Unknown Client,Unknown Worker,CFO: Fundraising/M&A,1.9166666666666667,0
+Unknown Client,Unknown Worker,Internal Trainer,1.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,1.9166666666666667,0
+Unknown Client,Unknown Worker,CFO: Financial Modeling,1.0,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,2.1666666666666665,0
+Unknown Client,Unknown Worker,CFO: Fundraising/M&A,2.25,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.75,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,11.5,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,4.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.5,0
+Unknown Client,Unknown Worker,Internal Trainer,1.5,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,0.5,0
+Unknown Client,Unknown Worker,Internal Admin,1.5,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5,0
+Unknown Client,Unknown Worker,Month End:  Assets,2.0,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.5,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5833333333333334,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.3333333333333333,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.0,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.75,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.4166666666666665,0
+Unknown Client,Unknown Worker,Client Team Oversight & Management,2.0,0
+Unknown Client,Unknown Worker,Client Team Oversight & Management,1.0,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,7.0,0
+Unknown Client,Unknown Worker,Internal Trainer,1.8333333333333333,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,1.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,3.0,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5833333333333334,0
+Unknown Client,Unknown Worker,Bill Pay,0.11666666666666667,0
+Unknown Client,Unknown Worker,Ad Hoc,3.8833333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.9833333333333333,0
+Unknown Client,Unknown Worker,Client Team Meetings,1.6166666666666667,0
+Unknown Client,Unknown Worker,Ad Hoc,0.7333333333333333,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.65,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.7,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.8333333333333334,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.85,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.75,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,3.433333333333333,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.5,0
+Unknown Client,Unknown Worker,Ad Hoc,0.4166666666666667,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.9666666666666667,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,2.533333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.5333333333333333,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.5666666666666667,0
+Unknown Client,Unknown Worker,Bookkeeping,1.1833333333333333,0
+Unknown Client,Unknown Worker,Month End: Liabilities,0.35,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.11666666666666667,0
+Unknown Client,Unknown Worker,Inventory Implementation,0.8666666666666667,0
+Unknown Client,Unknown Worker,Bill Pay,0.21666666666666667,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.6166666666666667,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.7833333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.2666666666666666,0
+Unknown Client,Unknown Worker,Ad Hoc,0.38333333333333336,0
+Unknown Client,Unknown Worker,Inventory Implementation,0.9833333333333333,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.6,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.75,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,1.5,0
+Unknown Client,Unknown Worker,Client Onboarding,0.8333333333333334,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,1.8333333333333333,0
+Unknown Client,Unknown Worker,CFO: Financial Modeling,1.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5833333333333334,0
+Unknown Client,Unknown Worker,Client Team Meetings,2.25,0
+Unknown Client,Unknown Worker,CFO: Financial Modeling,0.5833333333333334,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.3333333333333333,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.6666666666666666,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.75,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,3.6666666666666665,0
+Unknown Client,Unknown Worker,Client Team Meetings,3.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.2333333333333334,0
+Unknown Client,Unknown Worker,Month End: Liabilities,3.3833333333333333,0
+Unknown Client,Unknown Worker,Bill Pay,0.16666666666666666,0
+Unknown Client,Unknown Worker,Bookkeeping,2.3,0
+Unknown Client,Unknown Worker,Bill Pay,3.1333333333333333,0
+Unknown Client,Unknown Worker,Bookkeeping,2.75,0
+Unknown Client,Unknown Worker,Payroll,2.3666666666666667,0
+Unknown Client,Unknown Worker,Ad Hoc,1.05,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Sales Tax,6.416666666666667,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.6333333333333333,0
+Unknown Client,Unknown Worker,Bookkeeping,7.05,0
+Unknown Client,Unknown Worker,Bookkeeping,1.1666666666666667,0
+Unknown Client,Unknown Worker,Bill Pay,9.316666666666666,0
+Unknown Client,Unknown Worker,Bookkeeping,2.3333333333333335,0
+Unknown Client,Unknown Worker,Client Team Meetings,1.25,0
+Unknown Client,Unknown Worker,Month End: Equity,2.566666666666667,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,9.633333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,3.433333333333333,0
+Unknown Client,Unknown Worker,Ad Hoc,0.75,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.8333333333333334,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.5,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.75,0
+Unknown Client,Unknown Worker,Sales Tax,0.75,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.4166666666666667,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.6666666666666667,0
+Unknown Client,Unknown Worker,Bill Pay,7.25,0
+Unknown Client,Unknown Worker,Bookkeeping,1.0,0
+Unknown Client,Unknown Worker,Bookkeeping,1.3,0
+Unknown Client,Unknown Worker,Bookkeeping,3.0833333333333335,0
+Unknown Client,Unknown Worker,Bill Pay,4.333333333333333,0
+Unknown Client,Unknown Worker,Bookkeeping,4.0,0
+Unknown Client,Unknown Worker,Bill Pay,0.75,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.9166666666666666,0
+Unknown Client,Unknown Worker,Month End: Liabilities,2.75,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.5833333333333334,0
+Unknown Client,Unknown Worker,Month End:  Assets,6.916666666666667,0
+Unknown Client,Unknown Worker,Month End: Liabilities,7.75,0
+Unknown Client,Unknown Worker,Ad Hoc,0.5,0
+Unknown Client,Unknown Worker,Client Team Meetings,1.5833333333333333,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.8333333333333333,0
+Unknown Client,Unknown Worker,Bookkeeping,0.4166666666666667,0
+Unknown Client,Unknown Worker,Internal Admin,0.5,0
+Unknown Client,Unknown Worker,Bookkeeping,0.25,0
+Unknown Client,Unknown Worker,Bill Pay,0.7166666666666667,0
+Unknown Client,Unknown Worker,Internal Admin,23.75,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.2833333333333333,0
+Unknown Client,Unknown Worker,Bill Pay,0.36666666666666664,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,0.5,0
+Unknown Client,Unknown Worker,Month End: Liabilities,1.0,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5833333333333333,0
+Unknown Client,Unknown Worker,Bookkeeping,0.25,0
+Unknown Client,Unknown Worker,Internal Admin,1.9166666666666667,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Unknown Worker,Bill Pay,1.5,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.25,0
+Unknown Client,Unknown Worker,Month End:  Assets,2.0,0
+Unknown Client,Unknown Worker,Month End: Liabilities,1.0,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.0,0
+Unknown Client,Unknown Worker,Bookkeeping,0.5,0
+Unknown Client,Unknown Worker,Bill Pay,0.9333333333333333,0
+Unknown Client,Unknown Worker,Bill Pay,0.08333333333333333,0
+Unknown Client,Unknown Worker,Bill Pay,1.6333333333333333,0
+Unknown Client,Unknown Worker,Bill Pay,3.816666666666667,0
+Unknown Client,Unknown Worker,Bill Pay,1.55,0
+Unknown Client,Unknown Worker,Bill Pay,1.6166666666666667,0
+Unknown Client,Unknown Worker,Bill Pay,0.36666666666666664,0
+Unknown Client,Unknown Worker,Bill Pay,1.4833333333333334,0
+Unknown Client,Unknown Worker,Bill Pay,2.183333333333333,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.8166666666666667,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.3,0
+Unknown Client,Unknown Worker,Ad Hoc,2.0833333333333335,0
+Unknown Client,Unknown Worker,Month End: Review with Client,0.3333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.4,0
+Unknown Client,Unknown Worker,Month End: Review with Client,1.0,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,0.5833333333333334,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.8333333333333334,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Unknown Worker,Bill Pay,0.3333333333333333,0
+Unknown Client,Unknown Worker,Bill Pay,0.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.16666666666666666,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.75,0
+Unknown Client,Unknown Worker,Ad Hoc,1.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5833333333333334,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.0333333333333334,0
+Unknown Client,Unknown Worker,Internal Trainer,1.25,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.5,0
+Unknown Client,Unknown Worker,Internal Admin,0.5,0
+Unknown Client,Unknown Worker,Bill Pay,1.25,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.3333333333333333,0
+Unknown Client,Unknown Worker,Month End: Liabilities,1.25,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.75,0
+Unknown Client,Unknown Worker,Bookkeeping,0.16666666666666666,0
+Unknown Client,Unknown Worker,Ad Hoc,3.4166666666666665,0
+Unknown Client,Unknown Worker,Client Team Meetings,2.0,0
+Unknown Client,Unknown Worker,Ad Hoc,0.75,0
+Unknown Client,Unknown Worker,Bill Pay,0.16666666666666666,0
+Unknown Client,Unknown Worker,Ad Hoc,1.0,0
+Unknown Client,Unknown Worker,Ad Hoc,1.0833333333333333,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Ad Hoc,0.5,0
+Unknown Client,Unknown Worker,Ad Hoc,0.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.5,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.6666666666666667,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,1.1666666666666667,0
+Unknown Client,Unknown Worker,Ad Hoc,0.25,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,3.4166666666666665,0
+Unknown Client,Unknown Worker,Ad Hoc,0.16666666666666666,0
+Unknown Client,Unknown Worker,Ad Hoc,0.75,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,2.75,0
+Unknown Client,Unknown Worker,Ad Hoc,0.3333333333333333,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Unknown Worker,Ad Hoc,5.0,0
+Unknown Client,Unknown Worker,Ad Hoc,22.0,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,1.5,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,3.0,0
+Unknown Client,Unknown Worker,CFO: Reporting & Review,2.0,0
+Unknown Client,Unknown Worker,CFO: Financial Modeling,4.0,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.75,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.5333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,6.166666666666667,0
+Unknown Client,Unknown Worker,Month End: Liabilities,2.6,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.7166666666666667,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.75,0
+Unknown Client,Unknown Worker,Bill Pay,1.8833333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,3.683333333333333,0
+Unknown Client,Unknown Worker,Expense Management (Credit Card),0.5,0
+Unknown Client,Unknown Worker,Month End: Income Statement Revenue/COGS,2.6666666666666665,0
+Unknown Client,Unknown Worker,Month End: Liabilities,2.2666666666666666,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.0833333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.75,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.25,0
+Unknown Client,Unknown Worker,Bookkeeping,0.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Unknown Worker,Bill Pay,1.75,0
+Unknown Client,Unknown Worker,Bookkeeping,1.1666666666666667,0
+Unknown Client,Unknown Worker,Bill Pay,0.3333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Bookkeeping,3.75,0
+Unknown Client,Unknown Worker,Bill Pay,1.5,0
+Unknown Client,Unknown Worker,Team Lead,1.5,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,2.5,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,3.75,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,2.0,0
+Unknown Client,Unknown Worker,CFO: Other Advisory,1.75,0
+Unknown Client,Unknown Worker,Internal Trainer,0.8333333333333334,0
+Unknown Client,Unknown Worker,Bookkeeping,1.5,0
+Unknown Client,Unknown Worker,Bookkeeping,1.0,0
+Unknown Client,Unknown Worker,Bookkeeping,0.5666666666666667,0
+Unknown Client,Unknown Worker,Bookkeeping,2.9166666666666665,0
+Unknown Client,Unknown Worker,Bookkeeping,2.2666666666666666,0
+Unknown Client,Unknown Worker,Bookkeeping,4.35,0
+Unknown Client,Unknown Worker,Bill Pay,0.5,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.0,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.75,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,4.5,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.5,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,1.5,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,0.25,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.0,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,3.0,0
+Unknown Client,Unknown Worker,Bill Pay,3.5,0
+Unknown Client,Unknown Worker,Bill Pay,1.5,0
+Unknown Client,Unknown Worker,Bookkeeping,1.25,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,2.5,0
+Unknown Client,Unknown Worker,A/R Invoicing / Cash Application,6.25,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.5,0
+Unknown Client,Unknown Worker,Bill Pay,1.75,0
+Unknown Client,Unknown Worker,Cash Flow Management,0.5,0
+Unknown Client,Unknown Worker,Bookkeeping,0.75,0
+Unknown Client,Unknown Worker,Bookkeeping,1.5,0
+Unknown Client,Unknown Worker,Internal Admin,2.3333333333333335,0
+Unknown Client,Unknown Worker,Month End:  Assets,1.5,0
+Unknown Client,Unknown Worker,Client Onboarding,0.5,0
+Unknown Client,Unknown Worker,Bookkeeping,7.366666666666666,0
+Unknown Client,Unknown Worker,Bookkeeping,2.6666666666666665,0
+Unknown Client,Unknown Worker,Bookkeeping,1.55,0
+Unknown Client,Unknown Worker,Bookkeeping,3.05,0
+Unknown Client,Unknown Worker,Bookkeeping,0.5,0
+Unknown Client,Unknown Worker,Bill Pay,0.9166666666666666,0
+Unknown Client,Unknown Worker,Bookkeeping,2.5833333333333335,0
+Unknown Client,Unknown Worker,Bookkeeping,0.5,0
+Unknown Client,Unknown Worker,Bookkeeping,0.3,0
+Unknown Client,Unknown Worker,Bookkeeping,1.5,0
+Unknown Client,Unknown Worker,Bill Pay,3.316666666666667,0
+Unknown Client,Unknown Worker,Month End: Review with Client,0.5,0
+Unknown Client,Unknown Worker,Payroll,2.033333333333333,0
+Unknown Client,Unknown Worker,Internal Admin,1.4833333333333334,0
+Unknown Client,Unknown Worker,Month End: Review with Client,1.5166666666666666,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,1.3333333333333333,0
+Unknown Client,Unknown Worker,Month End: Income Statement Operating Expenses,0.4166666666666667,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,9.416666666666666,0
+Unknown Client,Unknown Worker,Ad Hoc,0.16666666666666666,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.7,0
+Unknown Client,Unknown Worker,Bookkeeping,3.15,0
+Unknown Client,Unknown Worker,Cash Flow Management,1.2,0
+Unknown Client,Unknown Worker,Client Team Meetings,2.05,0
+Unknown Client,Unknown Worker,Bookkeeping,1.0666666666666667,0
+Unknown Client,Unknown Worker,Month End:  Assets,0.36666666666666664,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,4.9,0
+Unknown Client,Unknown Worker,Ad Hoc,0.5,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.6666666666666666,0
+Unknown Client,Unknown Worker,Internal Admin,0.3333333333333333,0
+Unknown Client,Unknown Worker,Client Team Meetings,0.3333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,0.16666666666666666,0
+Unknown Client,Unknown Worker,Client Team Oversight & Management,0.3333333333333333,0
+Unknown Client,Unknown Worker,Ad Hoc,1.8333333333333333,0
+Unknown Client,Unknown Worker,Month End:  Review (Internal) and Reporting,2.0,0
+Unknown Client,Unknown Worker,Bookkeeping,4.35,0
+Unknown Client,Unknown Worker,Bookkeeping,2.7333333333333334,0
+Unknown Client,Unknown Worker,Bookkeeping,3.6333333333333333,0
+Unknown Client,Unknown Worker,Bookkeeping,2.25,0

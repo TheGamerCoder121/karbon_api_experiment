@@ -81,18 +81,6 @@ def fetch_users():
         log("No users found.")
         return {}
 
-# Fetch estimate summaries for a work item using WorkItemKey
-def fetch_estimate_summary(work_item_key):
-    log(f"Fetching estimate summary for WorkItemKey: {work_item_key}")
-    endpoint = f"/v3/EstimateSummaries/{work_item_key}"
-    estimate_data = make_http_request("GET", endpoint)
-    if estimate_data:
-        log(f"Fetched estimate summary for WorkItemKey: {work_item_key}")
-        return estimate_data.get("value", [])
-    else:
-        log(f"No estimate summary found for WorkItemKey: {work_item_key}")
-        return []
-
 # Process and structure the data
 def process_data():
     timesheets = fetch_timesheets()
@@ -112,29 +100,13 @@ def process_data():
                 task_type = entry.get("TaskTypeName", "Unknown Task")
                 actual_hours = entry["Minutes"] / 60 if entry["Minutes"] is not None else 0  # Convert minutes to hours
 
-                # Fetch estimate summaries for the work item
-                estimate_summary = fetch_estimate_summary(entry["EntityKey"])
-                budgeted_hours = 0
-                estimate_actual_hours = 0
-
-                # If estimate summary is found, extract budgeted and actual hours
-                if estimate_summary:
-                    for estimate in estimate_summary:
-                        estimate_minutes = estimate.get("EstimateMinutes")
-                        actual_minutes = estimate.get("ActualMinutes")
-
-                        # Ensure we don't divide None values; default to 0 if None
-                        budgeted_hours += (estimate_minutes or 0) / 60  # Convert minutes to hours
-                        estimate_actual_hours += (actual_minutes or 0) / 60  # Convert minutes to hours
-
                 # Structure the data for easy analysis
                 result.append({
                     "Client": client_name,
                     "Worker": user_name,
                     "Task": task_type,
                     "Actual Hours": actual_hours,
-                    "Budgeted Hours": budgeted_hours,
-                    "Estimate Actual Hours": estimate_actual_hours
+                    "Budgeted Hours": 0  # Budgeted hours omitted until the Work API is functional
                 })
             
             # Update progress bar
@@ -146,7 +118,7 @@ def process_data():
 def write_to_csv(data):
     log("Writing data to CSV file...")
     with open('output_data.csv', 'w', newline='') as csvfile:
-        fieldnames = ['Client', 'Worker', 'Task', 'Actual Hours', 'Budgeted Hours', 'Estimate Actual Hours']
+        fieldnames = ['Client', 'Worker', 'Task', 'Actual Hours', 'Budgeted Hours']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
