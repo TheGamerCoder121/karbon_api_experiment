@@ -44,27 +44,28 @@ def fetch_timesheets():
     end_date = f"{END_DATE}T23:59:59Z"
 
     # URL-encode the filter part to handle spaces and special characters
-    filter_query = quote(f"StartDate ge {start_date} and EndDate le {end_date}")
+    filter_query = quote(f"start_date={start_date}&end_date={end_date}")
     
     # Construct the endpoint with URL encoding
-    endpoint = f"/v3/Timesheets?$filter={filter_query}&$expand=TimeEntries"
+    endpoint = f"/timesheets?{filter_query}"
     
     timesheets_data = make_http_request("GET", endpoint)
     if timesheets_data:
-        log(f"Fetched {len(timesheets_data.get('value', []))} timesheets for the specified date range.")
-        return timesheets_data.get("value", [])
+        log(f"Fetched {len(timesheets_data)} timesheets for the specified date range.")
+        return timesheets_data
     else:
         log("No timesheets found for the specified date range.")
         return []
 
-# Fetch all clients in one batch
+# Fetch all contacts (clients) in one batch
 def fetch_clients():
     log("Fetching all clients in one batch...")
-    endpoint = "/v3/Clients"
+    # ?$filter=ContactType eq 'Client'
+    endpoint = "/v3/Contacts"
     clients_data = make_http_request("GET", endpoint)
     if clients_data:
         log(f"Fetched {len(clients_data.get('value', []))} clients.")
-        return {client["ClientKey"]: client["Name"] for client in clients_data.get("value", [])}
+        return {client["ContactKey"]: client["FullName"] for client in clients_data.get("value", [])}
     else:
         log("No clients found.")
         return {}
@@ -75,8 +76,8 @@ def fetch_users():
     endpoint = "/v3/Users"
     users_data = make_http_request("GET", endpoint)
     if users_data:
-        log(f"Fetched {len(users_data.get('value', []))} users.")
-        return {user["UserKey"]: user["Name"] for user in users_data.get("value", [])}
+        log(f"Fetched {len(users_data)} users.")
+        return {user["id"]: user["name"] for user in users_data}
     else:
         log("No users found.")
         return {}
@@ -84,11 +85,11 @@ def fetch_users():
 # Fetch estimate summaries for a work item using WorkItemKey
 def fetch_estimate_summary(work_item_key):
     log(f"Fetching estimate summary for WorkItemKey: {work_item_key}")
-    endpoint = f"/v3/EstimateSummaries/{work_item_key}"
+    endpoint = f"/work_items/{work_item_key}"
     estimate_data = make_http_request("GET", endpoint)
     if estimate_data:
         log(f"Fetched estimate summary for WorkItemKey: {work_item_key}")
-        return estimate_data.get("value", [])
+        return estimate_data
     else:
         log(f"No estimate summary found for WorkItemKey: {work_item_key}")
         return []
@@ -108,27 +109,27 @@ def process_data():
     with tqdm(total=len(timesheets), desc="Processing timesheets") as pbar:
         # Match timesheet entries with work items and gather data by client, worker, and task
         for timesheet in timesheets:
-            user_key = timesheet.get("UserKey")
+            user_key = timesheet.get("user_id")
             log(f"UserKey from timesheet: {user_key}")  # Log the UserKey from timesheet for debugging
             user_name = users.get(user_key, "Unknown Worker")
 
-            for entry in timesheet.get("TimeEntries", []):
-                client_key = entry.get("ClientKey")
+            for entry in timesheet.get("time_entries", []):
+                client_key = entry.get("client_id")
                 log(f"ClientKey from time entry: {client_key}")  # Log the ClientKey from time entry for debugging
                 client_name = clients.get(client_key, "Unknown Client")
-                task_type = entry.get("TaskTypeName", "Unknown Task")
-                actual_hours = entry["Minutes"] / 60 if entry["Minutes"] is not None else 0  # Convert minutes to hours
+                task_type = entry.get("task_type", "Unknown Task")
+                actual_hours = entry["minutes"] / 60 if entry["minutes"] is not None else 0  # Convert minutes to hours
 
                 # Fetch estimate summaries for the work item
-                estimate_summary = fetch_estimate_summary(entry["EntityKey"])
+                estimate_summary = fetch_estimate_summary(entry["work_item_id"])
                 budgeted_hours = 0
                 estimate_actual_hours = 0
 
                 # If estimate summary is found, extract budgeted and actual hours
                 if estimate_summary:
-                    for estimate in estimate_summary:
-                        estimate_minutes = estimate.get("EstimateMinutes")
-                        actual_minutes = estimate.get("ActualMinutes")
+                    for estimate in estimate_summary.get("estimates", []):
+                        estimate_minutes = estimate.get("estimate_minutes")
+                        actual_minutes = estimate.get("actual_minutes")
 
                         # Ensure we don't divide None values; default to 0 if None
                         budgeted_hours += (estimate_minutes or 0) / 60  # Convert minutes to hours
@@ -170,19 +171,19 @@ def write_to_json(data):
 
 # Main function to run the program
 def main():
-    log(fetch_users())
-    # log("Starting the process...")ndc bs
-    # data = process_data()
+    # log(fetch_users())
+    log("Starting the process...")
+    data = process_data()
     
-    # if not data:
-    #     log("No data to display.")
-    #     return
+    if not data:
+        log("No data to display.")
+        return
 
-    # # Write the data to CSV and JSON
-    # write_to_csv(data)
-    # write_to_json(data)
+    # Write the data to CSV and JSON
+    write_to_csv(data)
+    write_to_json(data)
 
-    # log("Data has been written to 'output_data.csv' and 'output_data.json'.")
+    log("Data has been written to 'output_data.csv' and 'output_data.json'.")
 
 if __name__ == "__main__":
     main()

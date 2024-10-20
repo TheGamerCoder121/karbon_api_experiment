@@ -57,52 +57,87 @@ def fetch_timesheets():
         log("No timesheets found for the specified date range.")
         return []
 
-# Fetch all clients in one batch
-def fetch_clients():
-    log("Fetching all clients in one batch...")
-    endpoint = "/v3/Clients"
-    clients_data = make_http_request("GET", endpoint)
-    if clients_data:
-        log(f"Fetched {len(clients_data.get('value', []))} clients.")
-        return {client["ClientKey"]: client["Name"] for client in clients_data.get("value", [])}
-    else:
-        log("No clients found.")
-        return {}
+# Fetch all contacts with pagination
+def fetch_contacts():
+    log("Fetching all contacts in batches of 100...")
+    endpoint = "/v3/Contacts"
+    contacts = {}
+    
+    next_link = endpoint
+    while next_link:
+        contacts_data = make_http_request("GET", next_link)
+        if contacts_data:
+            for contact in contacts_data.get("value", []):
+                contacts[contact["ContactKey"]] = contact["FullName"]
+            next_link = contacts_data.get("@odata.nextLink", None)
+            # If next_link is relative, ensure it starts with '/'
+            if next_link and not next_link.startswith('/'):
+                next_link = '/' + next_link
+            # Remove the API base URL if present in the next_link
+            if next_link and next_link.startswith("https://"):
+                next_link = next_link.split(API_BASE_URL)[-1]
+        else:
+            log("Failed to fetch contacts.")
+            next_link = None  # Exit the loop
 
-# Fetch all users in one batch
-def fetch_users():
-    log("Fetching all users in one batch...")
-    endpoint = "/v3/Users"
-    users_data = make_http_request("GET", endpoint)
-    if users_data:
-        log(f"Fetched {len(users_data.get('value', []))} users.")
-        return {user["UserKey"]: user["Name"] for user in users_data.get("value", [])}
-    else:
-        log("No users found.")
-        return {}
+    log(f"Fetched {len(contacts)} contacts.")
+    return contacts
+
+# Fetch all users individually
+def fetch_users(user_keys):
+    log("Fetching users individually...")
+    users = {}
+    with tqdm(total=len(user_keys), desc="Fetching users") as pbar:
+        for user_key in user_keys:
+            endpoint = f"/v3/Users/{user_key}"
+            user_data = make_http_request("GET", endpoint)
+            if user_data:
+                users[user_key] = user_data.get("Name", "Unknown User")
+            else:
+                users[user_key] = "Unknown User"
+            pbar.update(1)
+    return users
 
 # Process and structure the data
 def process_data():
     timesheets = fetch_timesheets()
-    clients = fetch_clients()  # Fetch clients once
-    users = fetch_users()      # Fetch users once
+    contacts = fetch_contacts()  # Fetch contacts instead of clients
+
+    # Extract unique UserKeys from timesheets
+    user_keys = set()
+    for timesheet in timesheets:
+        user_keys.add(timesheet["UserKey"])
+    
+    users = fetch_users(user_keys)  # Fetch users individually
 
     result = []
 
     # Create progress bar for processing timesheets
     with tqdm(total=len(timesheets), desc="Processing timesheets") as pbar:
-        # Match timesheet entries with work items and gather data by client, worker, and task
+        # Match timesheet entries with work items and gather data by contact, worker, and task
         for timesheet in timesheets:
             user_name = users.get(timesheet["UserKey"], "Unknown Worker")
 
             for entry in timesheet.get("TimeEntries", []):
-                client_name = clients.get(entry["ClientKey"], "Unknown Client")
+                # Log available keys in the entry
+                log(f"Entry keys: {list(entry.keys())}")
+
+                # Use 'ClientKey' from the entry
+                client_key = entry.get("ClientKey")
+                if not client_key:
+                    log(f"No 'ClientKey' found in entry: {entry}")
+                    contact_name = "Unknown Contact"
+                else:
+                    contact_name = contacts.get(client_key, "Unknown Contact")
+                    if contact_name == "Unknown Contact":
+                        log(f"ClientKey {client_key} not found in contacts.")
+
                 task_type = entry.get("TaskTypeName", "Unknown Task")
-                actual_hours = entry["Minutes"] / 60 if entry["Minutes"] is not None else 0  # Convert minutes to hours
+                actual_hours = entry.get("Minutes", 0) / 60  # Convert minutes to hours
 
                 # Structure the data for easy analysis
                 result.append({
-                    "Client": client_name,
+                    "Contact": contact_name,
                     "Worker": user_name,
                     "Task": task_type,
                     "Actual Hours": actual_hours,
@@ -114,11 +149,12 @@ def process_data():
 
     return result
 
+
 # Write data to CSV
 def write_to_csv(data):
     log("Writing data to CSV file...")
     with open('output_data.csv', 'w', newline='') as csvfile:
-        fieldnames = ['Client', 'Worker', 'Task', 'Actual Hours', 'Budgeted Hours']
+        fieldnames = ['Contact', 'Worker', 'Task', 'Actual Hours', 'Budgeted Hours']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
