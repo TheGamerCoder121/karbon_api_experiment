@@ -44,105 +44,103 @@ def fetch_timesheets():
     end_date = f"{END_DATE}T23:59:59Z"
 
     # URL-encode the filter part to handle spaces and special characters
-    filter_query = quote(f"start_date={start_date}&end_date={end_date}")
+    filter_query = quote(f"StartDate ge {start_date} and EndDate le {end_date}", safe='')
     
     # Construct the endpoint with URL encoding
-    endpoint = f"/timesheets?{filter_query}"
+    endpoint = f"/v3/Timesheets?$filter={filter_query}&$expand=TimeEntries"
     
     timesheets_data = make_http_request("GET", endpoint)
     if timesheets_data:
-        log(f"Fetched {len(timesheets_data)} timesheets for the specified date range.")
-        return timesheets_data
+        log(f"Fetched {len(timesheets_data.get('value', []))} timesheets for the specified date range.")
+        return timesheets_data.get("value", [])
     else:
         log("No timesheets found for the specified date range.")
         return []
 
-# Fetch all contacts (clients) in one batch
-def fetch_clients():
-    log("Fetching all clients in one batch...")
-    # ?$filter=ContactType eq 'Client'
-    endpoint = "/v3/Contacts"
-    clients_data = make_http_request("GET", endpoint)
-    if clients_data:
-        log(f"Fetched {len(clients_data.get('value', []))} clients.")
-        return {client["ContactKey"]: client["FullName"] for client in clients_data.get("value", [])}
-    else:
-        log("No clients found.")
-        return {}
+# Fetch all contacts with ContactType 'Client' and pagination
+def fetch_contacts():
+    log("Fetching all contacts with ContactType 'Client' in batches of 100...")
+    filter_value = "ContactType eq 'Client'"
+    encoded_filter = quote(filter_value, safe='')
+    endpoint = f"/v3/Contacts?$filter={encoded_filter}"
+    contacts = {}
+    
+    next_link = endpoint
+    while next_link:
+        contacts_data = make_http_request("GET", next_link)
+        if contacts_data:
+            for contact in contacts_data.get("value", []):
+                contacts[contact["ContactKey"]] = contact["FullName"]
+            next_link = contacts_data.get("@odata.nextLink", None)
+            # If next_link is relative, ensure it starts with '/'
+            if next_link and not next_link.startswith('/'):
+                next_link = '/' + next_link
+            # Remove the API base URL if present in the next_link
+            if next_link and next_link.startswith("https://"):
+                next_link = next_link.split(API_BASE_URL)[-1]
+        else:
+            log("Failed to fetch contacts.")
+            next_link = None  # Exit the loop
 
-# Fetch all users in one batch
-def fetch_users():
-    log("Fetching all users in one batch...")
-    endpoint = "/v3/Users"
-    users_data = make_http_request("GET", endpoint)
-    if users_data:
-        log(f"Fetched {len(users_data)} users.")
-        return {user["id"]: user["name"] for user in users_data}
-    else:
-        log("No users found.")
-        return {}
+    log(f"Fetched {len(contacts)} contacts with ContactType 'Client'.")
+    return contacts
 
-# Fetch estimate summaries for a work item using WorkItemKey
-def fetch_estimate_summary(work_item_key):
-    log(f"Fetching estimate summary for WorkItemKey: {work_item_key}")
-    endpoint = f"/work_items/{work_item_key}"
-    estimate_data = make_http_request("GET", endpoint)
-    if estimate_data:
-        log(f"Fetched estimate summary for WorkItemKey: {work_item_key}")
-        return estimate_data
-    else:
-        log(f"No estimate summary found for WorkItemKey: {work_item_key}")
-        return []
+# Fetch all users individually
+def fetch_users(user_keys):
+    log("Fetching users individually...")
+    users = {}
+    with tqdm(total=len(user_keys), desc="Fetching users") as pbar:
+        for user_key in user_keys:
+            endpoint = f"/v3/Users/{user_key}"
+            user_data = make_http_request("GET", endpoint)
+            if user_data:
+                users[user_key] = user_data.get("Name", "Unknown User")
+            else:
+                users[user_key] = "Unknown User"
+            pbar.update(1)
+    return users
 
 # Process and structure the data
 def process_data():
     timesheets = fetch_timesheets()
-    clients = fetch_clients()  # Fetch clients once
-    users = fetch_users()      # Fetch users once
+    contacts = fetch_contacts()  # Fetch contacts with ContactType 'Client'
 
-    log("Clients: " + str(clients))  # Log the fetched clients for debugging
-    log("Users: " + str(users))      # Log the fetched users for debugging
+    # Extract unique UserKeys from timesheets
+    user_keys = set()
+    for timesheet in timesheets:
+        user_keys.add(timesheet["UserKey"])
+    
+    users = fetch_users(user_keys)  # Fetch users individually
 
     result = []
 
     # Create progress bar for processing timesheets
     with tqdm(total=len(timesheets), desc="Processing timesheets") as pbar:
-        # Match timesheet entries with work items and gather data by client, worker, and task
+        # Match timesheet entries with work items and gather data by contact, worker, and task
         for timesheet in timesheets:
-            user_key = timesheet.get("user_id")
-            log(f"UserKey from timesheet: {user_key}")  # Log the UserKey from timesheet for debugging
-            user_name = users.get(user_key, "Unknown Worker")
+            user_name = users.get(timesheet["UserKey"], "Unknown Worker")
 
-            for entry in timesheet.get("time_entries", []):
-                client_key = entry.get("client_id")
-                log(f"ClientKey from time entry: {client_key}")  # Log the ClientKey from time entry for debugging
-                client_name = clients.get(client_key, "Unknown Client")
-                task_type = entry.get("task_type", "Unknown Task")
-                actual_hours = entry["minutes"] / 60 if entry["minutes"] is not None else 0  # Convert minutes to hours
-
-                # Fetch estimate summaries for the work item
-                estimate_summary = fetch_estimate_summary(entry["work_item_id"])
-                budgeted_hours = 0
-                estimate_actual_hours = 0
-
-                # If estimate summary is found, extract budgeted and actual hours
-                if estimate_summary:
-                    for estimate in estimate_summary.get("estimates", []):
-                        estimate_minutes = estimate.get("estimate_minutes")
-                        actual_minutes = estimate.get("actual_minutes")
-
-                        # Ensure we don't divide None values; default to 0 if None
-                        budgeted_hours += (estimate_minutes or 0) / 60  # Convert minutes to hours
-                        estimate_actual_hours += (actual_minutes or 0) / 60  # Convert minutes to hours
+            for entry in timesheet.get("TimeEntries", []):
+                # Use 'ClientKey' from the entry
+                client_key = entry.get("ClientKey")
+                if not client_key:
+                    log(f"No 'ClientKey' found in entry: {entry}")
+                    contact_name = "Unknown Contact"
+                else:
+                    contact_name = contacts.get(client_key, "Unknown Contact")
+                    if contact_name == "Unknown Contact":
+                        log(f"ClientKey {client_key} not found in contacts.")
+                
+                task_type = entry.get("TaskTypeName", "Unknown Task")
+                actual_hours = entry.get("Minutes", 0) / 60  # Convert minutes to hours
 
                 # Structure the data for easy analysis
                 result.append({
-                    "Client": client_name,
+                    "Contact": contact_name,
                     "Worker": user_name,
                     "Task": task_type,
                     "Actual Hours": actual_hours,
-                    "Budgeted Hours": budgeted_hours,
-                    "Estimate Actual Hours": estimate_actual_hours
+                    "Budgeted Hours": 0  # Budgeted hours omitted until the Work API is functional
                 })
             
             # Update progress bar
@@ -154,7 +152,7 @@ def process_data():
 def write_to_csv(data):
     log("Writing data to CSV file...")
     with open('output_data.csv', 'w', newline='') as csvfile:
-        fieldnames = ['Client', 'Worker', 'Task', 'Actual Hours', 'Budgeted Hours', 'Estimate Actual Hours']
+        fieldnames = ['Contact', 'Worker', 'Task', 'Actual Hours', 'Budgeted Hours']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
@@ -171,7 +169,6 @@ def write_to_json(data):
 
 # Main function to run the program
 def main():
-    # log(fetch_users())
     log("Starting the process...")
     data = process_data()
     

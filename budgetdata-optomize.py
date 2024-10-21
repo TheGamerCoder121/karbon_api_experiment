@@ -57,7 +57,6 @@ def fetch_timesheets():
         log("No timesheets found for the specified date range.")
         return []
 
-# Fetch all contacts with pagination
 def fetch_contacts():
     log("Fetching all contacts in batches of 100...")
     endpoint = "/v3/Contacts"
@@ -101,28 +100,24 @@ def fetch_users(user_keys):
 # Process and structure the data
 def process_data():
     timesheets = fetch_timesheets()
-    contacts = fetch_contacts()  # Fetch contacts instead of clients
+    contacts = fetch_contacts()  # Fetch all contacts without filters
 
     # Extract unique UserKeys from timesheets
     user_keys = set()
     for timesheet in timesheets:
         user_keys.add(timesheet["UserKey"])
-    
+
     users = fetch_users(user_keys)  # Fetch users individually
 
     result = []
 
     # Create progress bar for processing timesheets
     with tqdm(total=len(timesheets), desc="Processing timesheets") as pbar:
-        # Match timesheet entries with work items and gather data by contact, worker, and task
+        # Match time entries with contacts
         for timesheet in timesheets:
             user_name = users.get(timesheet["UserKey"], "Unknown Worker")
 
             for entry in timesheet.get("TimeEntries", []):
-                # Log available keys in the entry
-                log(f"Entry keys: {list(entry.keys())}")
-
-                # Use 'ClientKey' from the entry
                 client_key = entry.get("ClientKey")
                 if not client_key:
                     log(f"No 'ClientKey' found in entry: {entry}")
@@ -131,6 +126,8 @@ def process_data():
                     contact_name = contacts.get(client_key, "Unknown Contact")
                     if contact_name == "Unknown Contact":
                         log(f"ClientKey {client_key} not found in contacts.")
+                        # Optionally, log sample keys for debugging
+                        log(f"Sample ContactKeys: {list(contacts.keys())[:5]}")
 
                 task_type = entry.get("TaskTypeName", "Unknown Task")
                 actual_hours = entry.get("Minutes", 0) / 60  # Convert minutes to hours
@@ -141,14 +138,13 @@ def process_data():
                     "Worker": user_name,
                     "Task": task_type,
                     "Actual Hours": actual_hours,
-                    "Budgeted Hours": 0  # Budgeted hours omitted until the Work API is functional
+                    "Budgeted Hours": 0
                 })
-            
+
             # Update progress bar
             pbar.update(1)
 
     return result
-
 
 # Write data to CSV
 def write_to_csv(data):
